@@ -1,0 +1,109 @@
+# Central configuration for Pakistani Politician Image Classification
+
+paths:
+  base_dir: "."
+  data_dir: "data"
+  raw_dir: "data/raw"
+  cleaned_dir: "data/cleaned"
+  processed_dir: "data/processed"
+  references_dir: "data/references"
+  logs_dir: "logs"
+  reports_dir: "reports"
+  models_dir: "models"
+  
+  train_dir: "data/processed/train"
+  val_dir: "data/processed/val"
+  test_dir: "data/processed/test"
+
+download:
+  images_per_keyword: 200
+  max_images_per_class: 600
+  num_workers: 4
+  timeout: 10
+  max_faces_allowed: 1
+  search_suffixes:
+    - "official portrait"
+    - "press conference face"
+    - "interview close up"
+    - "parliament session face"
+    - "speech face"
+    - "hd portrait"
+    - "profile photo"
+
+processing:
+  target_size: [224, 224]
+  blur_threshold: 100.0
+  hash_threshold: 8
+  min_face_confidence: 0.95
+  face_margin: 0.20
+  min_image_bytes: 5000
+  max_faces_allowed: 1
+  min_face_size_ratio: 0.1
+  identity_threshold: 0.40
+  embedding_model: "Facenet512"
+
+training:
+  batch_size: 32
+  epochs: 25
+  learning_rate: 0.0001
+  val_split: 0.15
+  test_split: 0.10
+  train_ratio: 0.75
+  val_ratio: 0.15
+  test_ratio: 0.10
+  seed: 42
+
+politicians:
+  imran_khan:
+    display_name: "Imran Khan"
+    keywords: ["Imran Khan PTI", "Imran Khan official portrait", "Imran Khan face"]
+  nawaz_sharif:
+    display_name: "Nawaz Sharif"
+    keywords: ["Nawaz Sharif PMLN", "Nawaz Sharif official portrait", "Nawaz Sharif face"]
+  shahbaz_sharif:
+    display_name: "Shahbaz Sharif"
+    keywords: ["Shahbaz Sharif Prime Minister", "Shahbaz Sharif face", "Shahbaz Sharif portrait"]
+  maryam_nawaz:
+    display_name: "Maryam Nawaz"
+    keywords: ["Maryam Nawaz Sharif", "Maryam Nawaz face", "Maryam Nawaz portrait"]
+  bilawal_bhutto:
+    display_name: "Bilawal Bhutto"
+    keywords: ["Bilawal Bhutto Zardari", "Bilawal Bhutto face", "Bilawal Bhutto portrait"]
+  asif_ali_zardari:
+    display_name: "Asif Ali Zardari"
+    keywords: ["Asif Ali Zardari", "Asif Zardari face", "Asif Zardari portrait"]
+  fazlur_rehman:
+    display_name: "Fazlur Rehman"
+    keywords: ["Maulana Fazlur Rehman", "Fazlur Rehman JUIF", "Fazlur Rehman face"]
+  sheikh_rasheed:
+    display_name: "Sheikh Rasheed"
+    keywords: ["Sheikh Rasheed Ahmed", "Sheikh Rasheed face", "Sheikh Rasheed portrait"]
+  mohsin_naqvi:
+    display_name: "Mohsin Naqvi"
+    keywords: ["Mohsin Naqvi face", "Mohsin Naqvi portrait", "Mohsin Naqvi PCB", "Mohsin Naqvi CM Punjab", "Mohsin Naqvi official"]
+  hina_rabbani_khar:
+    display_name: "Hina Rabbani Khar"
+    keywords: ["Hina Rabbani Khar face", "Hina Rabbani Khar portrait", "Hina Rabbani Khar MOFA", "Hina Rabbani Khar official"]
+  murad_ali_shah:
+    display_name: "Murad Ali Shah"
+    keywords: ["Murad Ali Shah face", "Murad Ali Shah portrait", "Murad Ali Shah Sindh", "Murad Ali Shah CM", "Murad Ali Shah official"]
+  ali_amin_gandapur:
+    display_name: "Ali Amin Gandapur"
+    keywords: ["Ali Amin Gandapur face", "Ali Amin Gandapur portrait", "Ali Amin Gandapur KPK", "Ali Amin Gandapur CM", "Ali Amin Gandapur official"]
+  khawaja_asif:
+    display_name: "Khawaja Asif"
+    keywords: ["Khawaja Asif face", "Khawaja Asif portrait", "Khawaja Asif PMLN"]
+  attaullah_tarar:
+    display_name: "Attaullah Tarar"
+    keywords: ["Attaullah Tarar face", "Attaullah Tarar portrait"]
+  chaudhry_pervaiz_elahi:
+    display_name: "Chaudhry Pervaiz Elahi"
+    keywords: ["Chaudhry Pervaiz Elahi face", "Chaudhry Pervaiz Elahi portrait"]
+  ahmed_sharif_chaudhry:
+    display_name: "Ahmed Sharif Chaudhry"
+    keywords: ["Major General Ahmed Sharif Chaudhry face", "Ahmed Sharif Chaudhry DG ISPR", "General Ahmed Sharif portrait", "ISPR spokesperson face"]
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+  date_format: "%Y-%m-%d %H:%M:%S"

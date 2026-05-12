@@ -1,0 +1,25 @@
+======================================================================
+  PAKISTANI POLITICIAN IMAGE CLASSIFICATION - DATASET REPORT
+======================================================================
+
+Class                            Train     Val    Test   Total
+------------------------------------------------------------
+Imran Khan                         151      45      37     233
+Nawaz Sharif                       117      36      26     179
+Shahbaz Sharif                     104      35      24     163
+Maryam Nawaz                       116      35      26     177
+Bilawal Bhutto                     136      44      35     215
+Asif Ali Zardari                   150      42      31     223
+Fazlur Rehman                      146      47      33     226
+Sheikh Rasheed                     200      45      33     278
+Mohsin Naqvi                        88      38      26     152
+Hina Rabbani Khar                  111      33      25     169
+Murad Ali Shah                      88      28      21     137
+Ali Amin Gandapur                   79      31      24     134
+Khawaja Asif                       132      30      22     184
+Attaullah Tarar                    101      26      19     146
+Chaudhry Pervaiz Elahi              79      30      25     134
+Ahmed Sharif Chaudhry               82      31      22     135
+------------------------------------------------------------
+TOTAL                             1880     576     429    2885
+======================================================================

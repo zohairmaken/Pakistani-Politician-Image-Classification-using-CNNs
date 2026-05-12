@@ -1,0 +1,154 @@
+{
+  "per_class": {
+    "imran_khan": {
+      "display_name": "Imran Khan",
+      "splits": {
+        "train": 151,
+        "val": 45,
+        "test": 37
+      },
+      "total": 233
+    },
+    "nawaz_sharif": {
+      "display_name": "Nawaz Sharif",
+      "splits": {
+        "train": 117,
+        "val": 36,
+        "test": 26
+      },
+      "total": 179
+    },
+    "shahbaz_sharif": {
+      "display_name": "Shahbaz Sharif",
+      "splits": {
+        "train": 104,
+        "val": 35,
+        "test": 24
+      },
+      "total": 163
+    },
+    "maryam_nawaz": {
+      "display_name": "Maryam Nawaz",
+      "splits": {
+        "train": 116,
+        "val": 35,
+        "test": 26
+      },
+      "total": 177
+    },
+    "bilawal_bhutto": {
+      "display_name": "Bilawal Bhutto",
+      "splits": {
+        "train": 136,
+        "val": 44,
+        "test": 35
+      },
+      "total": 215
+    },
+    "asif_ali_zardari": {
+      "display_name": "Asif Ali Zardari",
+      "splits": {
+        "train": 150,
+        "val": 42,
+        "test": 31
+      },
+      "total": 223
+    },
+    "fazlur_rehman": {
+      "display_name": "Fazlur Rehman",
+      "splits": {
+        "train": 146,
+        "val": 47,
+        "test": 33
+      },
+      "total": 226
+    },
+    "sheikh_rasheed": {
+      "display_name": "Sheikh Rasheed",
+      "splits": {
+        "train": 200,
+        "val": 45,
+        "test": 33
+      },
+      "total": 278
+    },
+    "mohsin_naqvi": {
+      "display_name": "Mohsin Naqvi",
+      "splits": {
+        "train": 88,
+        "val": 38,
+        "test": 26
+      },
+      "total": 152
+    },
+    "hina_rabbani_khar": {
+      "display_name": "Hina Rabbani Khar",
+      "splits": {
+        "train": 111,
+        "val": 33,
+        "test": 25
+      },
+      "total": 169
+    },
+    "murad_ali_shah": {
+      "display_name": "Murad Ali Shah",
+      "splits": {
+        "train": 88,
+        "val": 28,
+        "test": 21
+      },
+      "total": 137
+    },
+    "ali_amin_gandapur": {
+      "display_name": "Ali Amin Gandapur",
+      "splits": {
+        "train": 79,
+        "val": 31,
+        "test": 24
+      },
+      "total": 134
+    },
+    "khawaja_asif": {
+      "display_name": "Khawaja Asif",
+      "splits": {
+        "train": 132,
+        "val": 30,
+        "test": 22
+      },
+      "total": 184
+    },
+    "attaullah_tarar": {
+      "display_name": "Attaullah Tarar",
+      "splits": {
+        "train": 101,
+        "val": 26,
+        "test": 19
+      },
+      "total": 146
+    },
+    "chaudhry_pervaiz_elahi": {
+      "display_name": "Chaudhry Pervaiz Elahi",
+      "splits": {
+        "train": 79,
+        "val": 30,
+        "test": 25
+      },
+      "total": 134
+    },
+    "ahmed_sharif_chaudhry": {
+      "display_name": "Ahmed Sharif Chaudhry",
+      "splits": {
+        "train": 82,
+        "val": 31,
+        "test": 22
+      },
+      "total": 135
+    }
+  },
+  "grand_totals": {
+    "train": 1880,
+    "val": 576,
+    "test": 429,
+    "total": 2885
+  }
+}

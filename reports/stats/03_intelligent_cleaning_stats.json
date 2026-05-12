@@ -1,0 +1,130 @@
+[
+  {
+    "class": "imran_khan",
+    "initial": 236,
+    "no_face": 23,
+    "too_many_faces": 41,
+    "too_small": 7,
+    "processed": 165
+  },
+  {
+    "class": "nawaz_sharif",
+    "initial": 212,
+    "no_face": 12,
+    "too_many_faces": 71,
+    "too_small": 7,
+    "processed": 122
+  },
+  {
+    "class": "shahbaz_sharif",
+    "initial": 174,
+    "no_face": 15,
+    "too_many_faces": 44,
+    "too_small": 4,
+    "processed": 111
+  },
+  {
+    "class": "maryam_nawaz",
+    "initial": 236,
+    "no_face": 9,
+    "too_many_faces": 101,
+    "too_small": 4,
+    "processed": 122
+  },
+  {
+    "class": "bilawal_bhutto",
+    "initial": 214,
+    "no_face": 6,
+    "too_many_faces": 62,
+    "too_small": 2,
+    "processed": 144
+  },
+  {
+    "class": "asif_ali_zardari",
+    "initial": 262,
+    "no_face": 7,
+    "too_many_faces": 85,
+    "too_small": 4,
+    "processed": 166
+  },
+  {
+    "class": "fazlur_rehman",
+    "initial": 286,
+    "no_face": 17,
+    "too_many_faces": 105,
+    "too_small": 5,
+    "processed": 159
+  },
+  {
+    "class": "sheikh_rasheed",
+    "initial": 262,
+    "no_face": 19,
+    "too_many_faces": 88,
+    "too_small": 4,
+    "processed": 151
+  },
+  {
+    "class": "mohsin_naqvi",
+    "initial": 185,
+    "no_face": 13,
+    "too_many_faces": 77,
+    "too_small": 7,
+    "processed": 88
+  },
+  {
+    "class": "hina_rabbani_khar",
+    "initial": 157,
+    "no_face": 0,
+    "too_many_faces": 37,
+    "too_small": 4,
+    "processed": 116
+  },
+  {
+    "class": "murad_ali_shah",
+    "initial": 171,
+    "no_face": 8,
+    "too_many_faces": 62,
+    "too_small": 6,
+    "processed": 95
+  },
+  {
+    "class": "ali_amin_gandapur",
+    "initial": 151,
+    "no_face": 3,
+    "too_many_faces": 68,
+    "too_small": 9,
+    "processed": 71
+  },
+  {
+    "class": "khawaja_asif",
+    "initial": 207,
+    "no_face": 5,
+    "too_many_faces": 118,
+    "too_small": 5,
+    "processed": 79
+  },
+  {
+    "class": "attaullah_tarar",
+    "initial": 112,
+    "no_face": 1,
+    "too_many_faces": 44,
+    "too_small": 11,
+    "processed": 56
+  },
+  {
+    "class": "chaudhry_pervaiz_elahi",
+    "initial": 239,
+    "no_face": 12,
+    "too_many_faces": 136,
+    "too_small": 14,
+    "processed": 77
+  },
+  {
+    "class": "ahmed_sharif_chaudhry",
+    "initial": 227,
+    "no_face": 26,
+    "too_many_faces": 94,
+    "too_small": 32,
+    "processed": 75
+  }
+]

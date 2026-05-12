@@ -1,0 +1,140 @@
+2026-05-12 01:21:56 | INFO     | __main__ | ============================================================
+2026-05-12 01:21:56 | INFO     | __main__ |   AUGMENTATION PADDING — target: 80 images per class
+2026-05-12 01:21:56 | INFO     | __main__ | ============================================================
+2026-05-12 01:21:56 | INFO     | __main__ | [imran_khan] Already has 162 images (≥80). No padding needed.
+2026-05-12 01:21:56 | INFO     | __main__ | [nawaz_sharif] Already has 108 images (≥80). No padding needed.
+2026-05-12 01:21:56 | INFO     | __main__ | [shahbaz_sharif] Already has 99 images (≥80). No padding needed.
+2026-05-12 01:21:57 | INFO     | __main__ | [maryam_nawaz] Already has 95 images (≥80). No padding needed.
+2026-05-12 01:21:57 | INFO     | __main__ | [bilawal_bhutto] Already has 125 images (≥80). No padding needed.
+2026-05-12 01:21:57 | INFO     | __main__ | [asif_ali_zardari] Has 78 images. Generating 2 augmented variants...
+2026-05-12 01:21:57 | INFO     | __main__ | [asif_ali_zardari] ✅ Padded: 78 real + 2 augmented = 80 total
+2026-05-12 01:21:57 | INFO     | __main__ | [fazlur_rehman] Already has 120 images (≥80). No padding needed.
+2026-05-12 01:21:57 | INFO     | __main__ | [sheikh_rasheed] Has 0 images. Generating 80 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | ============================================================
+2026-05-12 01:38:15 | INFO     | __main__ |   AUGMENTATION PADDING — target: 80 images per class
+2026-05-12 01:38:15 | INFO     | __main__ | ============================================================
+2026-05-12 01:38:15 | INFO     | __main__ | [imran_khan] Already has 165 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [nawaz_sharif] Already has 122 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [shahbaz_sharif] Already has 99 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [maryam_nawaz] Already has 95 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [bilawal_bhutto] Already has 125 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [asif_ali_zardari] Already has 80 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [fazlur_rehman] Already has 120 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [sheikh_rasheed] Already has 100 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [mohsin_naqvi] Has 76 images. Generating 4 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | [mohsin_naqvi] ✅ Padded: 76 real + 4 augmented = 80 total
+2026-05-12 01:38:15 | INFO     | __main__ | [hina_rabbani_khar] Already has 85 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [murad_ali_shah] Already has 80 images (≥80). No padding needed.
+2026-05-12 01:38:15 | INFO     | __main__ | [ali_amin_gandapur] Has 67 images. Generating 13 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | [ali_amin_gandapur] ✅ Padded: 67 real + 13 augmented = 80 total
+2026-05-12 01:38:15 | INFO     | __main__ | [khawaja_asif] Has 76 images. Generating 4 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | [khawaja_asif] ✅ Padded: 76 real + 4 augmented = 80 total
+2026-05-12 01:38:15 | INFO     | __main__ | [attaullah_tarar] Has 73 images. Generating 7 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | [attaullah_tarar] ✅ Padded: 73 real + 7 augmented = 80 total
+2026-05-12 01:38:15 | INFO     | __main__ | [chaudhry_pervaiz_elahi] Has 72 images. Generating 8 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | [chaudhry_pervaiz_elahi] ✅ Padded: 72 real + 8 augmented = 80 total
+2026-05-12 01:38:15 | INFO     | __main__ | [ahmed_sharif_chaudhry] Has 64 images. Generating 16 augmented variants...
+2026-05-12 01:38:15 | INFO     | __main__ | [ahmed_sharif_chaudhry] ✅ Padded: 64 real + 16 augmented = 80 total
+2026-05-12 01:38:15 | INFO     | __main__ | 
+============================================================
+2026-05-12 01:38:15 | INFO     | __main__ |   PADDING SUMMARY
+2026-05-12 01:38:15 | INFO     | __main__ | ============================================================
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ imran_khan                     165 → 165  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ nawaz_sharif                   122 → 122  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ shahbaz_sharif                  99 →  99  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ maryam_nawaz                    95 →  95  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ bilawal_bhutto                 125 → 125  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ asif_ali_zardari                80 →  80  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ fazlur_rehman                  120 → 120  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ sheikh_rasheed                 100 → 100  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ mohsin_naqvi                    76 →  80  (+4)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ hina_rabbani_khar               85 →  85  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ murad_ali_shah                  80 →  80  (+0)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ ali_amin_gandapur               67 →  80  (+13)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ khawaja_asif                    76 →  80  (+4)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ attaullah_tarar                 73 →  80  (+7)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ chaudhry_pervaiz_elahi          72 →  80  (+8)
+2026-05-12 01:38:15 | INFO     | __main__ |   ✅ ahmed_sharif_chaudhry           64 →  80  (+16)
+2026-05-12 10:47:49 | INFO     | __main__ | ============================================================
+2026-05-12 10:47:49 | INFO     | __main__ |   AUGMENTATION PADDING — target: 80 images per class
+2026-05-12 10:47:49 | INFO     | __main__ | ============================================================
+2026-05-12 10:47:49 | INFO     | __main__ | [imran_khan] Already has 137 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [nawaz_sharif] Already has 115 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [shahbaz_sharif] Already has 99 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [maryam_nawaz] Already has 95 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [bilawal_bhutto] Already has 122 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [asif_ali_zardari] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [fazlur_rehman] Already has 119 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [sheikh_rasheed] Already has 87 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [mohsin_naqvi] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [hina_rabbani_khar] Already has 85 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [murad_ali_shah] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [ali_amin_gandapur] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | [khawaja_asif] Has 77 images. Generating 3 augmented variants...
+2026-05-12 10:47:49 | INFO     | __main__ | [khawaja_asif] ✅ Padded: 77 real + 3 augmented = 77 total
+2026-05-12 10:47:49 | INFO     | __main__ | [attaullah_tarar] Has 79 images. Generating 1 augmented variants...
+2026-05-12 10:47:49 | INFO     | __main__ | [attaullah_tarar] ✅ Padded: 79 real + 1 augmented = 79 total
+2026-05-12 10:47:49 | INFO     | __main__ | [chaudhry_pervaiz_elahi] Has 79 images. Generating 1 augmented variants...
+2026-05-12 10:47:49 | INFO     | __main__ | [chaudhry_pervaiz_elahi] ✅ Padded: 79 real + 1 augmented = 80 total
+2026-05-12 10:47:49 | INFO     | __main__ | [ahmed_sharif_chaudhry] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:47:49 | INFO     | __main__ | 
+============================================================
+2026-05-12 10:47:49 | INFO     | __main__ |   PADDING SUMMARY
+2026-05-12 10:47:49 | INFO     | __main__ | ============================================================
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ imran_khan                     137 → 137  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ nawaz_sharif                   115 → 115  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ shahbaz_sharif                  99 →  99  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ maryam_nawaz                    95 →  95  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ bilawal_bhutto                 122 → 122  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ asif_ali_zardari                80 →  80  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ fazlur_rehman                  119 → 119  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ sheikh_rasheed                  87 →  87  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ mohsin_naqvi                    80 →  80  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ hina_rabbani_khar               85 →  85  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ murad_ali_shah                  80 →  80  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ ali_amin_gandapur               80 →  80  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ❌ khawaja_asif                    77 →  77  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ❌ attaullah_tarar                 79 →  79  (+0)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ chaudhry_pervaiz_elahi          79 →  80  (+1)
+2026-05-12 10:47:49 | INFO     | __main__ |   ✅ ahmed_sharif_chaudhry           80 →  80  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ | ============================================================
+2026-05-12 10:49:10 | INFO     | __main__ |   AUGMENTATION PADDING — target: 80 images per class
+2026-05-12 10:49:10 | INFO     | __main__ | ============================================================
+2026-05-12 10:49:10 | INFO     | __main__ | [imran_khan] Already has 137 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [nawaz_sharif] Already has 115 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [shahbaz_sharif] Already has 99 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [maryam_nawaz] Already has 95 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [bilawal_bhutto] Already has 122 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [asif_ali_zardari] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [fazlur_rehman] Already has 119 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [sheikh_rasheed] Already has 87 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [mohsin_naqvi] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [hina_rabbani_khar] Already has 85 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [murad_ali_shah] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [ali_amin_gandapur] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [khawaja_asif] Has 77 images. Generating 3 augmented variants...
+2026-05-12 10:49:10 | INFO     | __main__ | [khawaja_asif] ✅ Padded: 77 real + 3 augmented = 80 total
+2026-05-12 10:49:10 | INFO     | __main__ | [attaullah_tarar] Has 79 images. Generating 1 augmented variants...
+2026-05-12 10:49:10 | INFO     | __main__ | [attaullah_tarar] ✅ Padded: 79 real + 1 augmented = 80 total
+2026-05-12 10:49:10 | INFO     | __main__ | [chaudhry_pervaiz_elahi] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | [ahmed_sharif_chaudhry] Already has 80 images (≥80). No padding needed.
+2026-05-12 10:49:10 | INFO     | __main__ | 
+============================================================
+2026-05-12 10:49:10 | INFO     | __main__ |   PADDING SUMMARY
+2026-05-12 10:49:10 | INFO     | __main__ | ============================================================
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ imran_khan                     137 → 137  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ nawaz_sharif                   115 → 115  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ shahbaz_sharif                  99 →  99  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ maryam_nawaz                    95 →  95  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ bilawal_bhutto                 122 → 122  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ asif_ali_zardari                80 →  80  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ fazlur_rehman                  119 → 119  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ sheikh_rasheed                  87 →  87  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ mohsin_naqvi                    80 →  80  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ hina_rabbani_khar               85 →  85  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ murad_ali_shah                  80 →  80  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ ali_amin_gandapur               80 →  80  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ khawaja_asif                    77 →  80  (+3)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ attaullah_tarar                 79 →  80  (+1)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ chaudhry_pervaiz_elahi          80 →  80  (+0)
+2026-05-12 10:49:10 | INFO     | __main__ |   ✅ ahmed_sharif_chaudhry           80 →  80  (+0)

@@ -1,0 +1,146 @@
+[
+  {
+    "class": "imran_khan",
+    "initial": 602,
+    "removed_corrupted": 0,
+    "removed_small": 3,
+    "removed_blurry": 71,
+    "removed_duplicate": 292,
+    "final": 236
+  },
+  {
+    "class": "nawaz_sharif",
+    "initial": 552,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 47,
+    "removed_duplicate": 293,
+    "final": 212
+  },
+  {
+    "class": "shahbaz_sharif",
+    "initial": 457,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 25,
+    "removed_duplicate": 258,
+    "final": 174
+  },
+  {
+    "class": "maryam_nawaz",
+    "initial": 602,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 66,
+    "removed_duplicate": 300,
+    "final": 236
+  },
+  {
+    "class": "bilawal_bhutto",
+    "initial": 465,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 51,
+    "removed_duplicate": 200,
+    "final": 214
+  },
+  {
+    "class": "asif_ali_zardari",
+    "initial": 571,
+    "removed_corrupted": 0,
+    "removed_small": 2,
+    "removed_blurry": 58,
+    "removed_duplicate": 249,
+    "final": 262
+  },
+  {
+    "class": "fazlur_rehman",
+    "initial": 584,
+    "removed_corrupted": 0,
+    "removed_small": 1,
+    "removed_blurry": 25,
+    "removed_duplicate": 272,
+    "final": 286
+  },
+  {
+    "class": "sheikh_rasheed",
+    "initial": 513,
+    "removed_corrupted": 0,
+    "removed_small": 7,
+    "removed_blurry": 70,
+    "removed_duplicate": 174,
+    "final": 262
+  },
+  {
+    "class": "mohsin_naqvi",
+    "initial": 555,
+    "removed_corrupted": 0,
+    "removed_small": 3,
+    "removed_blurry": 50,
+    "removed_duplicate": 317,
+    "final": 185
+  },
+  {
+    "class": "hina_rabbani_khar",
+    "initial": 589,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 51,
+    "removed_duplicate": 381,
+    "final": 157
+  },
+  {
+    "class": "murad_ali_shah",
+    "initial": 591,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 36,
+    "removed_duplicate": 384,
+    "final": 171
+  },
+  {
+    "class": "ali_amin_gandapur",
+    "initial": 594,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 52,
+    "removed_duplicate": 391,
+    "final": 151
+  },
+  {
+    "class": "khawaja_asif",
+    "initial": 540,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 33,
+    "removed_duplicate": 300,
+    "final": 207
+  },
+  {
+    "class": "attaullah_tarar",
+    "initial": 413,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 19,
+    "removed_duplicate": 282,
+    "final": 112
+  },
+  {
+    "class": "chaudhry_pervaiz_elahi",
+    "initial": 598,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 24,
+    "removed_duplicate": 335,
+    "final": 239
+  },
+  {
+    "class": "ahmed_sharif_chaudhry",
+    "initial": 601,
+    "removed_corrupted": 0,
+    "removed_small": 0,
+    "removed_blurry": 44,
+    "removed_duplicate": 330,
+    "final": 227
+  }
+]

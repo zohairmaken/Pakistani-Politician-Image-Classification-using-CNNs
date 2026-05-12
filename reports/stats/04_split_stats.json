@@ -1,0 +1,114 @@
+[
+  {
+    "class": "imran_khan",
+    "train": 102,
+    "val": 21,
+    "test": 14,
+    "total": 137
+  },
+  {
+    "class": "nawaz_sharif",
+    "train": 86,
+    "val": 17,
+    "test": 12,
+    "total": 115
+  },
+  {
+    "class": "shahbaz_sharif",
+    "train": 74,
+    "val": 15,
+    "test": 10,
+    "total": 99
+  },
+  {
+    "class": "maryam_nawaz",
+    "train": 71,
+    "val": 14,
+    "test": 10,
+    "total": 95
+  },
+  {
+    "class": "bilawal_bhutto",
+    "train": 91,
+    "val": 18,
+    "test": 13,
+    "total": 122
+  },
+  {
+    "class": "asif_ali_zardari",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "fazlur_rehman",
+    "train": 89,
+    "val": 18,
+    "test": 12,
+    "total": 119
+  },
+  {
+    "class": "sheikh_rasheed",
+    "train": 65,
+    "val": 13,
+    "test": 9,
+    "total": 87
+  },
+  {
+    "class": "mohsin_naqvi",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "hina_rabbani_khar",
+    "train": 63,
+    "val": 13,
+    "test": 9,
+    "total": 85
+  },
+  {
+    "class": "murad_ali_shah",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "ali_amin_gandapur",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "khawaja_asif",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "attaullah_tarar",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "chaudhry_pervaiz_elahi",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  },
+  {
+    "class": "ahmed_sharif_chaudhry",
+    "train": 60,
+    "val": 12,
+    "test": 8,
+    "total": 80
+  }
+]

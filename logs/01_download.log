@@ -1,0 +1,302 @@
+2026-05-11 19:01:43 | INFO     | __main__ | ════════════════════════════════════════════════════════════
+2026-05-11 19:01:43 | INFO     | __main__ |   STEP 1 — IMAGE DOWNLOAD
+2026-05-11 19:01:43 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 19:01:43 | INFO     | __main__ | ════════════════════════════════════════════════════════════
+2026-05-11 19:01:44 | INFO     | __mp_main__ | [Imran Khan] Starting download — need 160 more images (6 keywords).
+2026-05-11 19:01:44 | INFO     | __mp_main__ | [Nawaz Sharif] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:01:44 | INFO     | __mp_main__ | [Shahbaz Sharif] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:01:44 | INFO     | __mp_main__ | [Maryam Nawaz] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:06:37 | INFO     | __main__ | ============================================================
+2026-05-11 19:06:37 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 19:06:37 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 19:06:37 | INFO     | __main__ | ============================================================
+2026-05-11 19:06:37 | INFO     | __mp_main__ | [Imran Khan] Starting download — need 160 more images (6 keywords).
+2026-05-11 19:06:37 | INFO     | __mp_main__ | [Nawaz Sharif] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:06:37 | INFO     | __mp_main__ | [Shahbaz Sharif] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:06:37 | INFO     | __mp_main__ | [Maryam Nawaz] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:08:23 | INFO     | __mp_main__ | [Maryam Nawaz] Done — downloaded 157 new images | total on disk: 157
+2026-05-11 19:08:23 | INFO     | __mp_main__ | [Bilawal Bhutto] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:08:36 | INFO     | __mp_main__ | [Nawaz Sharif] Done — downloaded 142 new images | total on disk: 142
+2026-05-11 19:08:36 | INFO     | __mp_main__ | [Asif Ali Zardari] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:08:36 | INFO     | __mp_main__ | [Shahbaz Sharif] Done — downloaded 138 new images | total on disk: 138
+2026-05-11 19:08:36 | INFO     | __mp_main__ | [Fazlur Rehman] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:09:19 | INFO     | __mp_main__ | [Imran Khan] Done — downloaded 160 new images | total on disk: 160
+2026-05-11 19:09:19 | INFO     | __mp_main__ | [Sheikh Rasheed] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:10:20 | INFO     | __mp_main__ | [Bilawal Bhutto] Done — downloaded 152 new images | total on disk: 152
+2026-05-11 19:10:20 | INFO     | __mp_main__ | [Mohsin Naqvi] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:10:39 | INFO     | __mp_main__ | [Asif Ali Zardari] Done — downloaded 158 new images | total on disk: 158
+2026-05-11 19:10:39 | INFO     | __mp_main__ | [Hina Rabbani Khar] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:10:58 | INFO     | __mp_main__ | [Fazlur Rehman] Done — downloaded 160 new images | total on disk: 160
+2026-05-11 19:10:58 | INFO     | __mp_main__ | [Murad Ali Shah] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:11:10 | INFO     | __mp_main__ | [Sheikh Rasheed] Done — downloaded 165 new images | total on disk: 165
+2026-05-11 19:11:10 | INFO     | __mp_main__ | [Ali Amin Gandapur] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:12:36 | INFO     | __mp_main__ | [Mohsin Naqvi] Done — downloaded 142 new images | total on disk: 142
+2026-05-11 19:12:36 | INFO     | __mp_main__ | [Khawaja Asif] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:12:43 | INFO     | __mp_main__ | [Hina Rabbani Khar] Done — downloaded 157 new images | total on disk: 157
+2026-05-11 19:12:43 | INFO     | __mp_main__ | [Attaullah Tarar] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:13:03 | INFO     | __mp_main__ | [Murad Ali Shah] Done — downloaded 159 new images | total on disk: 159
+2026-05-11 19:13:03 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:13:29 | INFO     | __mp_main__ | [Ali Amin Gandapur] Done — downloaded 152 new images | total on disk: 152
+2026-05-11 19:13:29 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Starting download — need 160 more images (5 keywords).
+2026-05-11 19:14:39 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Done — downloaded 165 new images | total on disk: 165
+2026-05-11 19:14:43 | INFO     | __mp_main__ | [Khawaja Asif] Done — downloaded 145 new images | total on disk: 145
+2026-05-11 19:14:44 | INFO     | __mp_main__ | [Attaullah Tarar] Done — downloaded 165 new images | total on disk: 165
+2026-05-11 19:15:21 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Done — downloaded 149 new images | total on disk: 149
+2026-05-11 19:15:21 | INFO     | __main__ | 
+------------------------------------------------------------
+2026-05-11 19:15:21 | INFO     | __main__ |   DOWNLOAD SUMMARY
+2026-05-11 19:15:21 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 19:15:21 | INFO     | __main__ |   imran_khan                     | +160 new | total: 160
+2026-05-11 19:15:21 | INFO     | __main__ |   nawaz_sharif                   | +142 new | total: 142
+2026-05-11 19:15:21 | INFO     | __main__ |   shahbaz_sharif                 | +138 new | total: 138
+2026-05-11 19:15:21 | INFO     | __main__ |   maryam_nawaz                   | +157 new | total: 157
+2026-05-11 19:15:21 | INFO     | __main__ |   bilawal_bhutto                 | +152 new | total: 152
+2026-05-11 19:15:21 | INFO     | __main__ |   asif_ali_zardari               | +158 new | total: 158
+2026-05-11 19:15:21 | INFO     | __main__ |   fazlur_rehman                  | +160 new | total: 160
+2026-05-11 19:15:21 | INFO     | __main__ |   sheikh_rasheed                 | +165 new | total: 165
+2026-05-11 19:15:21 | INFO     | __main__ |   mohsin_naqvi                   | +142 new | total: 142
+2026-05-11 19:15:21 | INFO     | __main__ |   hina_rabbani_khar              | +157 new | total: 157
+2026-05-11 19:15:21 | INFO     | __main__ |   murad_ali_shah                 | +159 new | total: 159
+2026-05-11 19:15:21 | INFO     | __main__ |   ali_amin_gandapur              | +152 new | total: 152
+2026-05-11 19:15:21 | INFO     | __main__ |   khawaja_asif                   | +145 new | total: 145
+2026-05-11 19:15:21 | INFO     | __main__ |   attaullah_tarar                | +165 new | total: 165
+2026-05-11 19:15:21 | INFO     | __main__ |   chaudhry_pervaiz_elahi         | +165 new | total: 165
+2026-05-11 19:15:21 | INFO     | __main__ |   ahmed_sharif_chaudhry          | +149 new | total: 149
+2026-05-11 19:15:21 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 19:15:21 | INFO     | __main__ |   Grand total images on disk: 2466
+2026-05-11 19:15:21 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 20:01:51 | INFO     | __main__ | ============================================================
+2026-05-11 20:01:52 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 20:01:52 | INFO     | __main__ |   Classes : 1 | Workers : 1
+2026-05-11 20:01:52 | INFO     | __main__ | ============================================================
+2026-05-11 20:01:52 | INFO     | __main__ | [Imran Khan] Starting download — need 132 more images (3 keywords).
+2026-05-11 20:03:36 | INFO     | __main__ | ============================================================
+2026-05-11 20:03:36 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 20:03:36 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 20:03:36 | INFO     | __main__ | ============================================================
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Imran Khan] Already has 113 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Nawaz Sharif] Already has 59 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Shahbaz Sharif] Already has 58 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Maryam Nawaz] Already has 53 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Bilawal Bhutto] Already has 68 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Asif Ali Zardari] Already has 71 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Fazlur Rehman] Already has 75 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Sheikh Rasheed] Already has 70 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Mohsin Naqvi] Already has 28 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Hina Rabbani Khar] Already has 47 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Murad Ali Shah] Already has 42 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Ali Amin Gandapur] Already has 45 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Khawaja Asif] Already has 80 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Attaullah Tarar] Already has 87 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Already has 115 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Already has 56 images — skipping download.
+2026-05-11 20:03:37 | INFO     | __main__ | 
+------------------------------------------------------------
+2026-05-11 20:03:37 | INFO     | __main__ |   DOWNLOAD SUMMARY
+2026-05-11 20:03:37 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 20:03:37 | INFO     | __main__ |   imran_khan                     | SKIPPED | total: 113
+2026-05-11 20:03:37 | INFO     | __main__ |   nawaz_sharif                   | SKIPPED | total: 59
+2026-05-11 20:03:37 | INFO     | __main__ |   shahbaz_sharif                 | SKIPPED | total: 58
+2026-05-11 20:03:37 | INFO     | __main__ |   maryam_nawaz                   | SKIPPED | total: 53
+2026-05-11 20:03:37 | INFO     | __main__ |   bilawal_bhutto                 | SKIPPED | total: 68
+2026-05-11 20:03:37 | INFO     | __main__ |   asif_ali_zardari               | SKIPPED | total: 71
+2026-05-11 20:03:37 | INFO     | __main__ |   fazlur_rehman                  | SKIPPED | total: 75
+2026-05-11 20:03:37 | INFO     | __main__ |   sheikh_rasheed                 | SKIPPED | total: 70
+2026-05-11 20:03:37 | INFO     | __main__ |   mohsin_naqvi                   | SKIPPED | total: 28
+2026-05-11 20:03:37 | INFO     | __main__ |   hina_rabbani_khar              | SKIPPED | total: 47
+2026-05-11 20:03:37 | INFO     | __main__ |   murad_ali_shah                 | SKIPPED | total: 42
+2026-05-11 20:03:37 | INFO     | __main__ |   ali_amin_gandapur              | SKIPPED | total: 45
+2026-05-11 20:03:37 | INFO     | __main__ |   khawaja_asif                   | SKIPPED | total: 80
+2026-05-11 20:03:37 | INFO     | __main__ |   attaullah_tarar                | SKIPPED | total: 87
+2026-05-11 20:03:37 | INFO     | __main__ |   chaudhry_pervaiz_elahi         | SKIPPED | total: 115
+2026-05-11 20:03:37 | INFO     | __main__ |   ahmed_sharif_chaudhry          | SKIPPED | total: 56
+2026-05-11 20:03:37 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 20:03:37 | INFO     | __main__ |   Grand total images on disk: 1067
+2026-05-11 20:03:37 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 20:45:00 | INFO     | __main__ | ============================================================
+2026-05-11 20:45:00 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 20:45:00 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 20:45:00 | INFO     | __main__ | ============================================================
+2026-05-11 20:45:01 | INFO     | __mp_main__ | [Imran Khan] Starting download — need 404 more images (3 keywords).
+2026-05-11 20:45:01 | INFO     | __mp_main__ | [Nawaz Sharif] Starting download — need 441 more images (3 keywords).
+2026-05-11 20:45:01 | INFO     | __mp_main__ | [Shahbaz Sharif] Starting download — need 442 more images (3 keywords).
+2026-05-11 20:45:01 | INFO     | __mp_main__ | [Maryam Nawaz] Starting download — need 447 more images (3 keywords).
+2026-05-11 20:47:08 | INFO     | __mp_main__ | [Shahbaz Sharif] Done — downloaded 111 new images | total on disk: 169
+2026-05-11 20:47:08 | INFO     | __mp_main__ | [Bilawal Bhutto] Starting download — need 432 more images (3 keywords).
+2026-05-11 21:08:00 | INFO     | __main__ | ============================================================
+2026-05-11 21:08:00 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 21:08:00 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 21:08:00 | INFO     | __main__ | ============================================================
+2026-05-11 21:08:01 | INFO     | __mp_main__ | [Imran Khan] Starting download — need 428 more images (3 keywords).
+2026-05-11 21:08:01 | INFO     | __mp_main__ | [Nawaz Sharif] Starting download — need 473 more images (3 keywords).
+2026-05-11 21:08:01 | INFO     | __mp_main__ | [Shahbaz Sharif] Starting download — need 485 more images (3 keywords).
+2026-05-11 21:08:01 | INFO     | __mp_main__ | [Maryam Nawaz] Starting download — need 425 more images (3 keywords).
+2026-05-11 21:10:01 | INFO     | __mp_main__ | [Maryam Nawaz] Done — downloaded 186 new images | total on disk: 361
+2026-05-11 21:10:01 | INFO     | __mp_main__ | [Bilawal Bhutto] Starting download — need 529 more images (3 keywords).
+2026-05-11 21:10:10 | INFO     | __mp_main__ | [Shahbaz Sharif] Done — downloaded 106 new images | total on disk: 221
+2026-05-11 21:10:10 | INFO     | __mp_main__ | [Asif Ali Zardari] Starting download — need 529 more images (3 keywords).
+2026-05-11 21:10:41 | INFO     | __mp_main__ | [Imran Khan] Done — downloaded 203 new images | total on disk: 375
+2026-05-11 21:10:41 | INFO     | __mp_main__ | [Fazlur Rehman] Starting download — need 525 more images (3 keywords).
+2026-05-11 21:10:47 | INFO     | __main__ | ============================================================
+2026-05-11 21:10:47 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 21:10:47 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 21:10:47 | INFO     | __main__ | ============================================================
+2026-05-11 21:10:48 | INFO     | __mp_main__ | [Imran Khan] Starting download — need 225 more images (3 keywords).
+2026-05-11 21:10:48 | INFO     | __mp_main__ | [Nawaz Sharif] Starting download — need 308 more images (3 keywords).
+2026-05-11 21:10:48 | INFO     | __mp_main__ | [Shahbaz Sharif] Starting download — need 379 more images (3 keywords).
+2026-05-11 21:10:48 | INFO     | __mp_main__ | [Maryam Nawaz] Starting download — need 239 more images (3 keywords).
+2026-05-11 21:10:49 | INFO     | __mp_main__ | [Nawaz Sharif] Done — downloaded 165 new images | total on disk: 292
+2026-05-11 21:10:49 | INFO     | __mp_main__ | [Sheikh Rasheed] Starting download — need 530 more images (3 keywords).
+2026-05-11 21:13:31 | INFO     | __mp_main__ | [Asif Ali Zardari] Done — downloaded 191 new images | total on disk: 262
+2026-05-11 21:13:31 | INFO     | __mp_main__ | [Mohsin Naqvi] Starting download — need 572 more images (5 keywords).
+2026-05-11 21:13:41 | INFO     | __mp_main__ | [Imran Khan] Done — downloaded 155 new images | total on disk: 530
+2026-05-11 21:13:41 | INFO     | __mp_main__ | [Bilawal Bhutto] Starting download — need 390 more images (3 keywords).
+2026-05-11 21:13:44 | INFO     | __mp_main__ | [Bilawal Bhutto] Done — downloaded 139 new images | total on disk: 210
+2026-05-11 21:13:44 | INFO     | __mp_main__ | [Hina Rabbani Khar] Starting download — need 553 more images (4 keywords).
+2026-05-11 21:13:56 | INFO     | __mp_main__ | [Maryam Nawaz] Done — downloaded 166 new images | total on disk: 527
+2026-05-11 21:13:56 | INFO     | __mp_main__ | [Asif Ali Zardari] Starting download — need 338 more images (3 keywords).
+2026-05-11 21:13:58 | INFO     | __mp_main__ | [Fazlur Rehman] Done — downloaded 192 new images | total on disk: 267
+2026-05-11 21:13:58 | INFO     | __mp_main__ | [Murad Ali Shah] Starting download — need 558 more images (5 keywords).
+2026-05-11 21:14:25 | INFO     | __mp_main__ | [Shahbaz Sharif] Done — downloaded 105 new images | total on disk: 326
+2026-05-11 21:14:25 | INFO     | __mp_main__ | [Fazlur Rehman] Starting download — need 333 more images (3 keywords).
+2026-05-11 21:14:28 | INFO     | __mp_main__ | [Nawaz Sharif] Done — downloaded 123 new images | total on disk: 415
+2026-05-11 21:14:28 | INFO     | __mp_main__ | [Sheikh Rasheed] Starting download — need 408 more images (3 keywords).
+2026-05-11 21:15:02 | INFO     | __mp_main__ | [Sheikh Rasheed] Done — downloaded 157 new images | total on disk: 227
+2026-05-11 21:15:02 | INFO     | __mp_main__ | [Ali Amin Gandapur] Starting download — need 555 more images (5 keywords).
+2026-05-11 21:17:47 | INFO     | __mp_main__ | [Fazlur Rehman] Done — downloaded 191 new images | total on disk: 458
+2026-05-11 21:17:47 | INFO     | __mp_main__ | [Mohsin Naqvi] Starting download — need 390 more images (5 keywords).
+2026-05-11 21:18:11 | INFO     | __mp_main__ | [Bilawal Bhutto] Done — downloaded 120 new images | total on disk: 330
+2026-05-11 21:18:11 | INFO     | __mp_main__ | [Hina Rabbani Khar] Starting download — need 377 more images (4 keywords).
+2026-05-11 21:18:17 | INFO     | __mp_main__ | [Asif Ali Zardari] Done — downloaded 157 new images | total on disk: 419
+2026-05-11 21:18:17 | INFO     | __mp_main__ | [Murad Ali Shah] Starting download — need 409 more images (5 keywords).
+2026-05-11 21:18:23 | INFO     | __mp_main__ | [Sheikh Rasheed] Done — downloaded 166 new images | total on disk: 358
+2026-05-11 21:18:23 | INFO     | __mp_main__ | [Ali Amin Gandapur] Starting download — need 419 more images (5 keywords).
+2026-05-11 21:18:40 | INFO     | __mp_main__ | [Mohsin Naqvi] Done — downloaded 231 new images | total on disk: 259
+2026-05-11 21:18:40 | INFO     | __mp_main__ | [Khawaja Asif] Starting download — need 520 more images (3 keywords).
+2026-05-11 21:18:56 | INFO     | __mp_main__ | [Hina Rabbani Khar] Done — downloaded 231 new images | total on disk: 278
+2026-05-11 21:18:56 | INFO     | __mp_main__ | [Attaullah Tarar] Starting download — need 513 more images (2 keywords).
+2026-05-11 21:19:59 | INFO     | __mp_main__ | [Murad Ali Shah] Done — downloaded 221 new images | total on disk: 264
+2026-05-11 21:19:59 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Starting download — need 485 more images (2 keywords).
+2026-05-11 21:20:36 | INFO     | __mp_main__ | [Ali Amin Gandapur] Done — downloaded 230 new images | total on disk: 275
+2026-05-11 21:20:36 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Starting download — need 544 more images (4 keywords).
+2026-05-11 21:21:43 | INFO     | __mp_main__ | [Attaullah Tarar] Done — downloaded 100 new images | total on disk: 187
+2026-05-11 21:22:13 | INFO     | __mp_main__ | [Khawaja Asif] Done — downloaded 142 new images | total on disk: 222
+2026-05-11 21:22:13 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Done — downloaded 147 new images | total on disk: 262
+2026-05-11 21:22:16 | INFO     | __mp_main__ | [Mohsin Naqvi] Done — downloaded 205 new images | total on disk: 415
+2026-05-11 21:22:16 | INFO     | __mp_main__ | [Khawaja Asif] Starting download — need 378 more images (3 keywords).
+2026-05-11 21:22:52 | INFO     | __mp_main__ | [Hina Rabbani Khar] Done — downloaded 224 new images | total on disk: 447
+2026-05-11 21:22:52 | INFO     | __mp_main__ | [Attaullah Tarar] Starting download — need 413 more images (2 keywords).
+2026-05-11 21:23:24 | INFO     | __mp_main__ | [Murad Ali Shah] Done — downloaded 238 new images | total on disk: 429
+2026-05-11 21:23:24 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Starting download — need 338 more images (2 keywords).
+2026-05-11 21:23:24 | INFO     | __mp_main__ | [Ali Amin Gandapur] Done — downloaded 243 new images | total on disk: 424
+2026-05-11 21:23:24 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Starting download — need 354 more images (4 keywords).
+2026-05-11 21:23:49 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Done — downloaded 247 new images | total on disk: 303
+2026-05-11 21:23:49 | INFO     | __main__ | 
+------------------------------------------------------------
+2026-05-11 21:23:49 | INFO     | __main__ |   DOWNLOAD SUMMARY
+2026-05-11 21:23:49 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:23:49 | INFO     | __main__ |   imran_khan                     | +203 new | total: 375
+2026-05-11 21:23:49 | INFO     | __main__ |   nawaz_sharif                   | +165 new | total: 292
+2026-05-11 21:23:49 | INFO     | __main__ |   shahbaz_sharif                 | +106 new | total: 221
+2026-05-11 21:23:49 | INFO     | __main__ |   maryam_nawaz                   | +186 new | total: 361
+2026-05-11 21:23:49 | INFO     | __main__ |   bilawal_bhutto                 | +139 new | total: 210
+2026-05-11 21:23:49 | INFO     | __main__ |   asif_ali_zardari               | +191 new | total: 262
+2026-05-11 21:23:49 | INFO     | __main__ |   fazlur_rehman                  | +192 new | total: 267
+2026-05-11 21:23:49 | INFO     | __main__ |   sheikh_rasheed                 | +157 new | total: 227
+2026-05-11 21:23:49 | INFO     | __main__ |   mohsin_naqvi                   | +231 new | total: 259
+2026-05-11 21:23:49 | INFO     | __main__ |   hina_rabbani_khar              | +231 new | total: 278
+2026-05-11 21:23:49 | INFO     | __main__ |   murad_ali_shah                 | +221 new | total: 264
+2026-05-11 21:23:49 | INFO     | __main__ |   ali_amin_gandapur              | +230 new | total: 275
+2026-05-11 21:23:49 | INFO     | __main__ |   khawaja_asif                   | +142 new | total: 222
+2026-05-11 21:23:49 | INFO     | __main__ |   attaullah_tarar                | +100 new | total: 187
+2026-05-11 21:23:49 | INFO     | __main__ |   chaudhry_pervaiz_elahi         | +147 new | total: 262
+2026-05-11 21:23:49 | INFO     | __main__ |   ahmed_sharif_chaudhry          | +247 new | total: 303
+2026-05-11 21:23:49 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:23:49 | INFO     | __main__ |   Grand total images on disk: 4265
+2026-05-11 21:23:49 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:23:58 | INFO     | __mp_main__ | [Khawaja Asif] Done — downloaded 169 new images | total on disk: 391
+2026-05-11 21:24:11 | INFO     | __mp_main__ | [Attaullah Tarar] Done — downloaded 110 new images | total on disk: 297
+2026-05-11 21:24:34 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Done — downloaded 161 new images | total on disk: 423
+2026-05-11 21:25:56 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Done — downloaded 231 new images | total on disk: 477
+2026-05-11 21:25:56 | INFO     | __main__ | 
+------------------------------------------------------------
+2026-05-11 21:25:56 | INFO     | __main__ |   DOWNLOAD SUMMARY
+2026-05-11 21:25:56 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:25:56 | INFO     | __main__ |   imran_khan                     | +155 new | total: 530
+2026-05-11 21:25:56 | INFO     | __main__ |   nawaz_sharif                   | +123 new | total: 415
+2026-05-11 21:25:56 | INFO     | __main__ |   shahbaz_sharif                 | +105 new | total: 326
+2026-05-11 21:25:56 | INFO     | __main__ |   maryam_nawaz                   | +166 new | total: 527
+2026-05-11 21:25:56 | INFO     | __main__ |   bilawal_bhutto                 | +120 new | total: 330
+2026-05-11 21:25:56 | INFO     | __main__ |   asif_ali_zardari               | +157 new | total: 419
+2026-05-11 21:25:56 | INFO     | __main__ |   fazlur_rehman                  | +191 new | total: 458
+2026-05-11 21:25:56 | INFO     | __main__ |   sheikh_rasheed                 | +166 new | total: 358
+2026-05-11 21:25:56 | INFO     | __main__ |   mohsin_naqvi                   | +205 new | total: 415
+2026-05-11 21:25:56 | INFO     | __main__ |   hina_rabbani_khar              | +224 new | total: 447
+2026-05-11 21:25:56 | INFO     | __main__ |   murad_ali_shah                 | +238 new | total: 429
+2026-05-11 21:25:56 | INFO     | __main__ |   ali_amin_gandapur              | +243 new | total: 424
+2026-05-11 21:25:56 | INFO     | __main__ |   khawaja_asif                   | +169 new | total: 391
+2026-05-11 21:25:56 | INFO     | __main__ |   attaullah_tarar                | +110 new | total: 297
+2026-05-11 21:25:56 | INFO     | __main__ |   chaudhry_pervaiz_elahi         | +161 new | total: 423
+2026-05-11 21:25:56 | INFO     | __main__ |   ahmed_sharif_chaudhry          | +231 new | total: 477
+2026-05-11 21:25:56 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:25:56 | INFO     | __main__ |   Grand total images on disk: 6666
+2026-05-11 21:25:56 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:36:14 | INFO     | __main__ | ============================================================
+2026-05-11 21:36:14 | INFO     | __main__ |   STEP 1 -- IMAGE DOWNLOAD
+2026-05-11 21:36:14 | INFO     | __main__ |   Classes : 16 | Workers : 4
+2026-05-11 21:36:14 | INFO     | __main__ | ============================================================
+2026-05-11 21:36:14 | INFO     | __mp_main__ | [Nawaz Sharif] Starting download — need 185 more images (3 keywords).
+2026-05-11 21:36:14 | INFO     | __mp_main__ | [Imran Khan] Starting download — need 70 more images (3 keywords).
+2026-05-11 21:36:14 | INFO     | __mp_main__ | [Shahbaz Sharif] Starting download — need 274 more images (3 keywords).
+2026-05-11 21:36:14 | INFO     | __mp_main__ | [Maryam Nawaz] Starting download — need 73 more images (3 keywords).
+2026-05-11 21:37:02 | INFO     | __mp_main__ | [Maryam Nawaz] Done — downloaded 75 new images | total on disk: 602
+2026-05-11 21:37:02 | INFO     | __mp_main__ | [Bilawal Bhutto] Starting download — need 270 more images (3 keywords).
+2026-05-11 21:37:32 | INFO     | __mp_main__ | [Imran Khan] Done — downloaded 72 new images | total on disk: 602
+2026-05-11 21:37:32 | INFO     | __mp_main__ | [Asif Ali Zardari] Starting download — need 181 more images (3 keywords).
+2026-05-11 21:38:13 | INFO     | __mp_main__ | [Nawaz Sharif] Done — downloaded 137 new images | total on disk: 552
+2026-05-11 21:38:13 | INFO     | __mp_main__ | [Fazlur Rehman] Starting download — need 142 more images (3 keywords).
+2026-05-11 21:38:42 | INFO     | __mp_main__ | [Shahbaz Sharif] Done — downloaded 131 new images | total on disk: 457
+2026-05-11 21:38:42 | INFO     | __mp_main__ | [Sheikh Rasheed] Starting download — need 242 more images (3 keywords).
+2026-05-11 21:39:27 | INFO     | __mp_main__ | [Bilawal Bhutto] Done — downloaded 135 new images | total on disk: 465
+2026-05-11 21:39:27 | INFO     | __mp_main__ | [Mohsin Naqvi] Starting download — need 185 more images (5 keywords).
+2026-05-11 21:39:42 | INFO     | __mp_main__ | [Asif Ali Zardari] Done — downloaded 152 new images | total on disk: 571
+2026-05-11 21:39:42 | INFO     | __mp_main__ | [Hina Rabbani Khar] Starting download — need 153 more images (4 keywords).
+2026-05-11 21:39:50 | INFO     | __mp_main__ | [Fazlur Rehman] Done — downloaded 126 new images | total on disk: 584
+2026-05-11 21:39:50 | INFO     | __mp_main__ | [Murad Ali Shah] Starting download — need 171 more images (5 keywords).
+2026-05-11 21:40:58 | INFO     | __mp_main__ | [Sheikh Rasheed] Done — downloaded 155 new images | total on disk: 513
+2026-05-11 21:40:58 | INFO     | __mp_main__ | [Ali Amin Gandapur] Starting download — need 176 more images (5 keywords).
+2026-05-11 21:41:07 | INFO     | __mp_main__ | [Hina Rabbani Khar] Done — downloaded 142 new images | total on disk: 589
+2026-05-11 21:41:07 | INFO     | __mp_main__ | [Khawaja Asif] Starting download — need 209 more images (3 keywords).
+2026-05-11 21:41:29 | INFO     | __mp_main__ | [Mohsin Naqvi] Done — downloaded 140 new images | total on disk: 555
+2026-05-11 21:41:29 | INFO     | __mp_main__ | [Attaullah Tarar] Starting download — need 303 more images (2 keywords).
+2026-05-11 21:42:07 | INFO     | __mp_main__ | [Murad Ali Shah] Done — downloaded 162 new images | total on disk: 591
+2026-05-11 21:42:07 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Starting download — need 177 more images (2 keywords).
+2026-05-11 21:42:37 | INFO     | __mp_main__ | [Khawaja Asif] Done — downloaded 149 new images | total on disk: 540
+2026-05-11 21:42:37 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Starting download — need 123 more images (4 keywords).
+2026-05-11 21:42:46 | INFO     | __mp_main__ | [Attaullah Tarar] Done — downloaded 116 new images | total on disk: 413
+2026-05-11 21:43:30 | INFO     | __mp_main__ | [Ali Amin Gandapur] Done — downloaded 170 new images | total on disk: 594
+2026-05-11 21:43:34 | INFO     | __mp_main__ | [Chaudhry Pervaiz Elahi] Done — downloaded 175 new images | total on disk: 598
+2026-05-11 21:43:49 | INFO     | __mp_main__ | [Ahmed Sharif Chaudhry] Done — downloaded 124 new images | total on disk: 601
+2026-05-11 21:43:49 | INFO     | __main__ | 
+------------------------------------------------------------
+2026-05-11 21:43:49 | INFO     | __main__ |   DOWNLOAD SUMMARY
+2026-05-11 21:43:49 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:43:49 | INFO     | __main__ |   imran_khan                     | + 72 new | total: 602
+2026-05-11 21:43:49 | INFO     | __main__ |   nawaz_sharif                   | +137 new | total: 552
+2026-05-11 21:43:49 | INFO     | __main__ |   shahbaz_sharif                 | +131 new | total: 457
+2026-05-11 21:43:49 | INFO     | __main__ |   maryam_nawaz                   | + 75 new | total: 602
+2026-05-11 21:43:49 | INFO     | __main__ |   bilawal_bhutto                 | +135 new | total: 465
+2026-05-11 21:43:49 | INFO     | __main__ |   asif_ali_zardari               | +152 new | total: 571
+2026-05-11 21:43:49 | INFO     | __main__ |   fazlur_rehman                  | +126 new | total: 584
+2026-05-11 21:43:49 | INFO     | __main__ |   sheikh_rasheed                 | +155 new | total: 513
+2026-05-11 21:43:49 | INFO     | __main__ |   mohsin_naqvi                   | +140 new | total: 555
+2026-05-11 21:43:49 | INFO     | __main__ |   hina_rabbani_khar              | +142 new | total: 589
+2026-05-11 21:43:49 | INFO     | __main__ |   murad_ali_shah                 | +162 new | total: 591
+2026-05-11 21:43:49 | INFO     | __main__ |   ali_amin_gandapur              | +170 new | total: 594
+2026-05-11 21:43:49 | INFO     | __main__ |   khawaja_asif                   | +149 new | total: 540
+2026-05-11 21:43:49 | INFO     | __main__ |   attaullah_tarar                | +116 new | total: 413
+2026-05-11 21:43:49 | INFO     | __main__ |   chaudhry_pervaiz_elahi         | +175 new | total: 598
+2026-05-11 21:43:49 | INFO     | __main__ |   ahmed_sharif_chaudhry          | +124 new | total: 601
+2026-05-11 21:43:49 | INFO     | __main__ | ------------------------------------------------------------
+2026-05-11 21:43:49 | INFO     | __main__ |   Grand total images on disk: 8827
+2026-05-11 21:43:49 | INFO     | __main__ | ------------------------------------------------------------

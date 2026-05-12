@@ -1,0 +1,197 @@
+2026-05-11 19:01:41 | INFO     | pipeline | =================================================================
+2026-05-11 19:01:41 | INFO     | pipeline |   PAKISTANI POLITICIAN IMAGE CLASSIFICATION PIPELINE
+2026-05-11 19:01:41 | INFO     | pipeline |   Steps to run : [1, 2, 3, 4, 5]
+2026-05-11 19:01:41 | INFO     | pipeline |   Workers      : 4
+2026-05-11 19:01:41 | INFO     | pipeline | =================================================================
+2026-05-11 19:01:41 | INFO     | pipeline | 
+2026-05-11 19:01:41 | INFO     | pipeline | ▶  STEP 1 / 5 — Download Images
+2026-05-11 19:01:41 | INFO     | pipeline |    Command: C:\Users\zohai\AppData\Local\Programs\Python\Python311\python.exe 01_download_images.py --workers 4
+2026-05-11 19:01:41 | INFO     | pipeline | ────────────────────────────────────────────────────────────
+2026-05-11 19:06:36 | INFO     | pipeline | =================================================================
+2026-05-11 19:06:36 | INFO     | pipeline |   PAKISTANI POLITICIAN IMAGE CLASSIFICATION PIPELINE
+2026-05-11 19:06:36 | INFO     | pipeline |   Steps to run : [1, 2, 3, 4, 5]
+2026-05-11 19:06:36 | INFO     | pipeline |   Workers      : 4
+2026-05-11 19:06:36 | INFO     | pipeline | =================================================================
+2026-05-11 19:06:36 | INFO     | pipeline | 
+2026-05-11 19:06:36 | INFO     | pipeline | >> STEP 1 / 5 -- Download Images
+2026-05-11 19:06:36 | INFO     | pipeline |    Command: C:\Users\zohai\AppData\Local\Programs\Python\Python311\python.exe 01_download_images.py --workers 4
+2026-05-11 19:06:36 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 19:15:21 | INFO     | pipeline | V  Step 1 completed in 525.3s
+
+2026-05-11 19:15:21 | INFO     | pipeline | 
+2026-05-11 19:15:21 | INFO     | pipeline | >> STEP 2 / 5 -- Clean Dataset
+2026-05-11 19:15:21 | INFO     | pipeline |    Command: C:\Users\zohai\AppData\Local\Programs\Python\Python311\python.exe 02_clean_dataset.py
+2026-05-11 19:15:21 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 19:16:52 | INFO     | pipeline | V  Step 2 completed in 91.3s
+
+2026-05-11 19:16:52 | INFO     | pipeline | 
+2026-05-11 19:16:52 | INFO     | pipeline | >> STEP 3 / 5 -- Face Detection & Crop
+2026-05-11 19:16:52 | INFO     | pipeline |    Command: C:\Users\zohai\AppData\Local\Programs\Python\Python311\python.exe 03_face_detection.py
+2026-05-11 19:16:52 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 19:35:08 | ERROR    | pipeline | X  Step 3 FAILED (exit code 1) after 1095.8s
+2026-05-11 19:35:08 | ERROR    | pipeline | Pipeline halted at step 3.
+2026-05-11 19:35:08 | INFO     | pipeline | 
+2026-05-11 19:35:08 | INFO     | pipeline | =================================================================
+2026-05-11 19:35:08 | ERROR    | pipeline |   PIPELINE FAILED at step(s): [3]
+2026-05-11 19:35:08 | ERROR    | pipeline |   Total time: 1712.5s
+2026-05-11 19:47:57 | INFO     | pipeline | =================================================================
+2026-05-11 19:47:57 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-11 19:47:57 | INFO     | pipeline |   Steps: [2, 3, 4, 5]
+2026-05-11 19:47:57 | INFO     | pipeline | =================================================================
+2026-05-11 19:47:57 | INFO     | pipeline | 
+2026-05-11 19:47:57 | INFO     | pipeline | >> STEP 2 -- Initial Cleaning
+2026-05-11 19:47:57 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 19:48:11 | INFO     | pipeline | V  Step completed in 13.8s
+
+2026-05-11 19:48:11 | INFO     | pipeline | 
+2026-05-11 19:48:11 | INFO     | pipeline | >> STEP 3 -- Intelligent Cleaning
+2026-05-11 19:48:11 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:03:35 | INFO     | pipeline | =================================================================
+2026-05-11 20:03:35 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-11 20:03:35 | INFO     | pipeline |   Steps: [1, 2, 3, 4, 5, 6]
+2026-05-11 20:03:35 | INFO     | pipeline | =================================================================
+2026-05-11 20:03:35 | INFO     | pipeline | 
+2026-05-11 20:03:35 | INFO     | pipeline | >> STEP 1 -- Download Images
+2026-05-11 20:03:35 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:03:37 | INFO     | pipeline | V  Step completed in 2.3s
+
+2026-05-11 20:03:37 | INFO     | pipeline | 
+2026-05-11 20:03:37 | INFO     | pipeline | >> STEP 2 -- Initial Cleaning
+2026-05-11 20:03:37 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:04:06 | INFO     | pipeline | V  Step completed in 28.2s
+
+2026-05-11 20:04:06 | INFO     | pipeline | 
+2026-05-11 20:04:06 | INFO     | pipeline | >> STEP 3 -- Intelligent Cleaning
+2026-05-11 20:04:06 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:17:29 | INFO     | pipeline | V  Step completed in 803.8s
+
+2026-05-11 20:17:29 | INFO     | pipeline | 
+2026-05-11 20:17:29 | INFO     | pipeline | >> STEP 4 -- Train/Val/Test Split
+2026-05-11 20:17:29 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:17:36 | INFO     | pipeline | V  Step completed in 6.4s
+
+2026-05-11 20:17:36 | INFO     | pipeline | 
+2026-05-11 20:17:36 | INFO     | pipeline | >> STEP 5 -- Basic Visualisation
+2026-05-11 20:17:36 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:18:01 | INFO     | pipeline | V  Step completed in 25.6s
+
+2026-05-11 20:18:01 | INFO     | pipeline | 
+2026-05-11 20:18:01 | INFO     | pipeline | >> STEP 6 -- CNN Training
+2026-05-11 20:18:01 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:18:20 | ERROR    | pipeline | X  Step FAILED (exit code 1)
+2026-05-11 20:18:20 | ERROR    | pipeline | Pipeline halted.
+2026-05-11 20:19:07 | INFO     | pipeline | =================================================================
+2026-05-11 20:19:07 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-11 20:19:07 | INFO     | pipeline |   Steps: [6]
+2026-05-11 20:19:07 | INFO     | pipeline | =================================================================
+2026-05-11 20:19:07 | INFO     | pipeline | 
+2026-05-11 20:19:07 | INFO     | pipeline | >> STEP 6 -- CNN Training
+2026-05-11 20:19:07 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:23:50 | INFO     | pipeline | V  Step completed in 283.7s
+
+2026-05-11 20:47:45 | INFO     | pipeline | =================================================================
+2026-05-11 20:47:45 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-11 20:47:45 | INFO     | pipeline |   Steps: [2, 3, 4, 5, 6, 31, 32]
+2026-05-11 20:47:45 | INFO     | pipeline | =================================================================
+2026-05-11 20:47:45 | INFO     | pipeline | 
+2026-05-11 20:47:45 | INFO     | pipeline | >> STEP 2 -- Initial Cleaning
+2026-05-11 20:47:45 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:48:29 | INFO     | pipeline | V  Step completed in 44.0s
+
+2026-05-11 20:48:29 | INFO     | pipeline | 
+2026-05-11 20:48:29 | INFO     | pipeline | >> STEP 3 -- Intelligent Cleaning
+2026-05-11 20:48:29 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 20:51:24 | INFO     | pipeline | =================================================================
+2026-05-11 20:51:24 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-11 20:51:24 | INFO     | pipeline |   Steps: [3, 4, 5, 6, 31, 32]
+2026-05-11 20:51:24 | INFO     | pipeline | =================================================================
+2026-05-11 20:51:24 | INFO     | pipeline | 
+2026-05-11 20:51:24 | INFO     | pipeline | >> STEP 3 -- Intelligent Cleaning
+2026-05-11 20:51:24 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 21:36:13 | INFO     | pipeline | =================================================================
+2026-05-11 21:36:13 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-11 21:36:13 | INFO     | pipeline |   Steps: [1, 2, 3, 4, 5, 6, 31, 32]
+2026-05-11 21:36:13 | INFO     | pipeline | =================================================================
+2026-05-11 21:36:13 | INFO     | pipeline | 
+2026-05-11 21:36:13 | INFO     | pipeline | >> STEP 1 -- Download Images
+2026-05-11 21:36:13 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 21:43:49 | INFO     | pipeline | V  Step completed in 455.7s
+
+2026-05-11 21:43:49 | INFO     | pipeline | 
+2026-05-11 21:43:49 | INFO     | pipeline | >> STEP 2 -- Initial Cleaning
+2026-05-11 21:43:49 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 21:46:31 | INFO     | pipeline | V  Step completed in 162.3s
+
+2026-05-11 21:46:31 | INFO     | pipeline | 
+2026-05-11 21:46:31 | INFO     | pipeline | >> STEP 3 -- Intelligent Cleaning
+2026-05-11 21:46:31 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 23:09:08 | INFO     | pipeline | V  Step completed in 4957.3s
+
+2026-05-11 23:09:09 | INFO     | pipeline | 
+2026-05-11 23:09:09 | INFO     | pipeline | >> STEP 4 -- Train/Val/Test Split
+2026-05-11 23:09:09 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 23:09:38 | INFO     | pipeline | V  Step completed in 29.3s
+
+2026-05-11 23:09:38 | INFO     | pipeline | 
+2026-05-11 23:09:38 | INFO     | pipeline | >> STEP 5 -- Basic Visualisation
+2026-05-11 23:09:38 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-11 23:10:46 | INFO     | pipeline | V  Step completed in 67.7s
+
+2026-05-11 23:10:46 | INFO     | pipeline | 
+2026-05-11 23:10:46 | INFO     | pipeline | >> STEP 6 -- CNN Training
+2026-05-11 23:10:46 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 00:23:03 | INFO     | pipeline | =================================================================
+2026-05-12 00:23:03 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-12 00:23:03 | INFO     | pipeline |   Steps: [40, 50, 60, 70, 80]
+2026-05-12 00:23:03 | INFO     | pipeline | =================================================================
+2026-05-12 00:23:03 | INFO     | pipeline | 
+2026-05-12 00:23:03 | INFO     | pipeline | >> STEP 40 -- Auto Reference Gen
+2026-05-12 00:23:03 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 00:30:54 | INFO     | pipeline | =================================================================
+2026-05-12 00:30:54 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-12 00:30:54 | INFO     | pipeline |   Steps: [40, 50, 60, 70, 80]
+2026-05-12 00:30:54 | INFO     | pipeline | =================================================================
+2026-05-12 00:30:54 | INFO     | pipeline | 
+2026-05-12 00:30:54 | INFO     | pipeline | >> STEP 40 -- Auto Reference Gen
+2026-05-12 00:30:54 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 00:34:52 | INFO     | pipeline | V  Step completed in 238.3s
+
+2026-05-12 00:34:52 | INFO     | pipeline | 
+2026-05-12 00:34:52 | INFO     | pipeline | >> STEP 50 -- Identity Verification
+2026-05-12 00:34:52 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 01:21:59 | INFO     | pipeline | =================================================================
+2026-05-12 01:21:59 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-12 01:21:59 | INFO     | pipeline |   Steps: [60, 70, 80]
+2026-05-12 01:21:59 | INFO     | pipeline | =================================================================
+2026-05-12 01:21:59 | INFO     | pipeline | 
+2026-05-12 01:21:59 | INFO     | pipeline | >> STEP 60 -- Train/Val/Test Split
+2026-05-12 01:21:59 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 01:22:35 | INFO     | pipeline | V  Step completed in 36.1s
+
+2026-05-12 01:22:35 | INFO     | pipeline | 
+2026-05-12 01:22:35 | INFO     | pipeline | >> STEP 70 -- Basic Visualisation
+2026-05-12 01:22:35 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 01:23:18 | INFO     | pipeline | V  Step completed in 42.5s
+
+2026-05-12 01:23:18 | INFO     | pipeline | 
+2026-05-12 01:23:18 | INFO     | pipeline | >> STEP 80 -- CNN Training
+2026-05-12 01:23:18 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 01:38:33 | INFO     | pipeline | =================================================================
+2026-05-12 01:38:33 | INFO     | pipeline |   PAKISTANI POLITICIAN ADVANCED AI PIPELINE
+2026-05-12 01:38:33 | INFO     | pipeline |   Steps: [60, 70, 80]
+2026-05-12 01:38:33 | INFO     | pipeline | =================================================================
+2026-05-12 01:38:33 | INFO     | pipeline | 
+2026-05-12 01:38:33 | INFO     | pipeline | >> STEP 60 -- Train/Val/Test Split
+2026-05-12 01:38:33 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 01:38:41 | INFO     | pipeline | V  Step completed in 8.1s
+
+2026-05-12 01:38:41 | INFO     | pipeline | 
+2026-05-12 01:38:41 | INFO     | pipeline | >> STEP 70 -- Basic Visualisation
+2026-05-12 01:38:41 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 01:39:01 | INFO     | pipeline | V  Step completed in 20.4s
+
+2026-05-12 01:39:01 | INFO     | pipeline | 
+2026-05-12 01:39:01 | INFO     | pipeline | >> STEP 80 -- CNN Training
+2026-05-12 01:39:01 | INFO     | pipeline | ------------------------------------------------------------
+2026-05-12 02:42:01 | ERROR    | pipeline | X  Step FAILED (exit code 1)
+2026-05-12 02:42:01 | ERROR    | pipeline | Pipeline halted.

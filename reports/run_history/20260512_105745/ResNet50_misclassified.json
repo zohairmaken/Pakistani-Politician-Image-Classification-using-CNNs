@@ -1,0 +1,32 @@
+[
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\khawaja_asif\\000009.jpg",
+    "true": "khawaja_asif",
+    "pred": "shahbaz_sharif",
+    "confidence": 0.5926201343536377
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\asif_ali_zardari\\asif_ali_zardari_0065.jpg",
+    "true": "asif_ali_zardari",
+    "pred": "shahbaz_sharif",
+    "confidence": 0.4897434413433075
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\mohsin_naqvi\\mohsin_naqvi_0068.jpg",
+    "true": "mohsin_naqvi",
+    "pred": "ahmed_sharif_chaudhry",
+    "confidence": 0.46183010935783386
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\imran_khan\\imran_khan_0099.jpg",
+    "true": "imran_khan",
+    "pred": "nawaz_sharif",
+    "confidence": 0.4341283440589905
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\sheikh_rasheed\\000193.jpg",
+    "true": "sheikh_rasheed",
+    "pred": "asif_ali_zardari",
+    "confidence": 0.34159308671951294
+  }
+]

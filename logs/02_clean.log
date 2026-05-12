@@ -1,0 +1,215 @@
+2026-05-11 19:15:22 | INFO     | __main__ | ============================================================
+2026-05-11 19:15:22 | INFO     | __main__ |   STEP 2 -- DATASET CLEANING
+2026-05-11 19:15:22 | INFO     | __main__ |   Classes: 16 | Blur threshold: 100.0
+2026-05-11 19:15:22 | INFO     | __main__ | ============================================================
+2026-05-11 19:15:30 | INFO     | __main__ | [imran_khan] 160 → 100 (removed 60: corrupt=0, small=0, blur=47, dup=13)
+2026-05-11 19:15:39 | INFO     | __main__ | [nawaz_sharif] 142 → 100 (removed 42: corrupt=0, small=0, blur=26, dup=16)
+2026-05-11 19:15:51 | INFO     | __main__ | [shahbaz_sharif] 138 → 97 (removed 41: corrupt=0, small=0, blur=24, dup=17)
+2026-05-11 19:15:58 | INFO     | __main__ | [maryam_nawaz] 157 → 116 (removed 41: corrupt=0, small=0, blur=34, dup=7)
+2026-05-11 19:16:06 | INFO     | __main__ | [bilawal_bhutto] 152 → 114 (removed 38: corrupt=0, small=0, blur=31, dup=7)
+2026-05-11 19:16:11 | INFO     | __main__ | [asif_ali_zardari] 158 → 104 (removed 54: corrupt=0, small=0, blur=20, dup=34)
+2026-05-11 19:16:16 | INFO     | __main__ | [fazlur_rehman] 160 → 119 (removed 41: corrupt=0, small=0, blur=12, dup=29)
+2026-05-11 19:16:21 | INFO     | __main__ | [sheikh_rasheed] 165 → 113 (removed 52: corrupt=0, small=0, blur=35, dup=17)
+2026-05-11 19:16:25 | INFO     | __main__ | [mohsin_naqvi] 142 → 67 (removed 75: corrupt=0, small=0, blur=31, dup=44)
+2026-05-11 19:16:32 | INFO     | __main__ | [hina_rabbani_khar] 157 → 95 (removed 62: corrupt=0, small=0, blur=31, dup=31)
+2026-05-11 19:16:36 | INFO     | __main__ | [murad_ali_shah] 159 → 109 (removed 50: corrupt=0, small=0, blur=20, dup=30)
+2026-05-11 19:16:39 | INFO     | __main__ | [ali_amin_gandapur] 152 → 89 (removed 63: corrupt=0, small=0, blur=30, dup=33)
+2026-05-11 19:16:43 | INFO     | __main__ | [khawaja_asif] 145 → 97 (removed 48: corrupt=0, small=0, blur=23, dup=25)
+2026-05-11 19:16:46 | INFO     | __main__ | [attaullah_tarar] 165 → 87 (removed 78: corrupt=0, small=0, blur=17, dup=61)
+2026-05-11 19:16:50 | INFO     | __main__ | [chaudhry_pervaiz_elahi] 165 → 115 (removed 50: corrupt=0, small=0, blur=22, dup=28)
+2026-05-11 19:16:52 | INFO     | __main__ | [ahmed_sharif_chaudhry] 149 → 56 (removed 93: corrupt=0, small=0, blur=19, dup=74)
+2026-05-11 19:16:52 | INFO     | __main__ | 
+----------------------------------------------------------------------
+2026-05-11 19:16:52 | INFO     | __main__ |   CLEANING SUMMARY
+2026-05-11 19:16:52 | INFO     | __main__ |   Class                      Before   After   Corr.    Blur    Dup.
+2026-05-11 19:16:52 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 19:16:52 | INFO     | __main__ |   imran_khan                    160     100       0      47      13
+2026-05-11 19:16:52 | INFO     | __main__ |   nawaz_sharif                  142     100       0      26      16
+2026-05-11 19:16:52 | INFO     | __main__ |   shahbaz_sharif                138      97       0      24      17
+2026-05-11 19:16:52 | INFO     | __main__ |   maryam_nawaz                  157     116       0      34       7
+2026-05-11 19:16:52 | INFO     | __main__ |   bilawal_bhutto                152     114       0      31       7
+2026-05-11 19:16:52 | INFO     | __main__ |   asif_ali_zardari              158     104       0      20      34
+2026-05-11 19:16:52 | INFO     | __main__ |   fazlur_rehman                 160     119       0      12      29
+2026-05-11 19:16:52 | INFO     | __main__ |   sheikh_rasheed                165     113       0      35      17
+2026-05-11 19:16:52 | INFO     | __main__ |   mohsin_naqvi                  142      67       0      31      44
+2026-05-11 19:16:52 | INFO     | __main__ |   hina_rabbani_khar             157      95       0      31      31
+2026-05-11 19:16:52 | INFO     | __main__ |   murad_ali_shah                159     109       0      20      30
+2026-05-11 19:16:52 | INFO     | __main__ |   ali_amin_gandapur             152      89       0      30      33
+2026-05-11 19:16:52 | INFO     | __main__ |   khawaja_asif                  145      97       0      23      25
+2026-05-11 19:16:52 | INFO     | __main__ |   attaullah_tarar               165      87       0      17      61
+2026-05-11 19:16:52 | INFO     | __main__ |   chaudhry_pervaiz_elahi        165     115       0      22      28
+2026-05-11 19:16:52 | INFO     | __main__ |   ahmed_sharif_chaudhry         149      56       0      19      74
+2026-05-11 19:16:52 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 19:16:52 | INFO     | __main__ |   Stats saved → C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\02_cleaning_stats.json
+2026-05-11 19:47:58 | INFO     | __main__ | ============================================================
+2026-05-11 19:47:58 | INFO     | __main__ |   STEP 2 -- DATASET CLEANING
+2026-05-11 19:47:58 | INFO     | __main__ |   Classes: 16 | Blur threshold: 100.0
+2026-05-11 19:47:58 | INFO     | __main__ | ============================================================
+2026-05-11 19:47:58 | INFO     | __main__ | [imran_khan] 98 → 68 (removed 30: corrupt=0, small=0, blur=23, dup=7)
+2026-05-11 19:47:59 | INFO     | __main__ | [nawaz_sharif] 89 → 59 (removed 30: corrupt=0, small=0, blur=23, dup=7)
+2026-05-11 19:47:59 | INFO     | __main__ | [shahbaz_sharif] 85 → 58 (removed 27: corrupt=0, small=0, blur=23, dup=4)
+2026-05-11 19:48:00 | INFO     | __main__ | [maryam_nawaz] 100 → 53 (removed 47: corrupt=0, small=0, blur=39, dup=8)
+2026-05-11 19:48:00 | INFO     | __main__ | [bilawal_bhutto] 113 → 68 (removed 45: corrupt=0, small=0, blur=43, dup=2)
+2026-05-11 19:48:00 | INFO     | __main__ | [asif_ali_zardari] 102 → 71 (removed 31: corrupt=0, small=0, blur=22, dup=9)
+2026-05-11 19:48:01 | INFO     | __main__ | [fazlur_rehman] 115 → 75 (removed 40: corrupt=0, small=0, blur=34, dup=6)
+2026-05-11 19:48:01 | INFO     | __main__ | [sheikh_rasheed] 111 → 70 (removed 41: corrupt=0, small=0, blur=33, dup=8)
+2026-05-11 19:48:01 | INFO     | __main__ | [mohsin_naqvi] 67 → 28 (removed 39: corrupt=0, small=0, blur=30, dup=9)
+2026-05-11 19:48:02 | INFO     | __main__ | [hina_rabbani_khar] 95 → 47 (removed 48: corrupt=0, small=0, blur=39, dup=9)
+2026-05-11 19:48:02 | INFO     | __main__ | [murad_ali_shah] 109 → 42 (removed 67: corrupt=0, small=0, blur=59, dup=8)
+2026-05-11 19:48:03 | INFO     | __main__ | [ali_amin_gandapur] 46 → 45 (removed 1: corrupt=0, small=0, blur=1, dup=0)
+2026-05-11 19:48:05 | INFO     | __main__ | [khawaja_asif] 80 → 80 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 19:48:07 | INFO     | __main__ | [attaullah_tarar] 87 → 87 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 19:48:10 | INFO     | __main__ | [chaudhry_pervaiz_elahi] 115 → 115 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 19:48:11 | INFO     | __main__ | [ahmed_sharif_chaudhry] 56 → 56 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 19:48:11 | INFO     | __main__ | 
+----------------------------------------------------------------------
+2026-05-11 19:48:11 | INFO     | __main__ |   CLEANING SUMMARY
+2026-05-11 19:48:11 | INFO     | __main__ |   Class                      Before   After   Corr.    Blur    Dup.
+2026-05-11 19:48:11 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 19:48:11 | INFO     | __main__ |   imran_khan                     98      68       0      23       7
+2026-05-11 19:48:11 | INFO     | __main__ |   nawaz_sharif                   89      59       0      23       7
+2026-05-11 19:48:11 | INFO     | __main__ |   shahbaz_sharif                 85      58       0      23       4
+2026-05-11 19:48:11 | INFO     | __main__ |   maryam_nawaz                  100      53       0      39       8
+2026-05-11 19:48:11 | INFO     | __main__ |   bilawal_bhutto                113      68       0      43       2
+2026-05-11 19:48:11 | INFO     | __main__ |   asif_ali_zardari              102      71       0      22       9
+2026-05-11 19:48:11 | INFO     | __main__ |   fazlur_rehman                 115      75       0      34       6
+2026-05-11 19:48:11 | INFO     | __main__ |   sheikh_rasheed                111      70       0      33       8
+2026-05-11 19:48:11 | INFO     | __main__ |   mohsin_naqvi                   67      28       0      30       9
+2026-05-11 19:48:11 | INFO     | __main__ |   hina_rabbani_khar              95      47       0      39       9
+2026-05-11 19:48:11 | INFO     | __main__ |   murad_ali_shah                109      42       0      59       8
+2026-05-11 19:48:11 | INFO     | __main__ |   ali_amin_gandapur              46      45       0       1       0
+2026-05-11 19:48:11 | INFO     | __main__ |   khawaja_asif                   80      80       0       0       0
+2026-05-11 19:48:11 | INFO     | __main__ |   attaullah_tarar                87      87       0       0       0
+2026-05-11 19:48:11 | INFO     | __main__ |   chaudhry_pervaiz_elahi        115     115       0       0       0
+2026-05-11 19:48:11 | INFO     | __main__ |   ahmed_sharif_chaudhry          56      56       0       0       0
+2026-05-11 19:48:11 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 19:48:11 | INFO     | __main__ |   Stats saved → C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\02_cleaning_stats.json
+2026-05-11 20:03:38 | INFO     | __main__ | ============================================================
+2026-05-11 20:03:38 | INFO     | __main__ |   STEP 2 -- DATASET CLEANING
+2026-05-11 20:03:38 | INFO     | __main__ |   Classes: 16 | Blur threshold: 100.0
+2026-05-11 20:03:38 | INFO     | __main__ | ============================================================
+2026-05-11 20:03:42 | INFO     | __main__ | [imran_khan] 113 → 96 (removed 17: corrupt=0, small=0, blur=16, dup=1)
+2026-05-11 20:03:42 | INFO     | __main__ | [nawaz_sharif] 59 → 59 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:43 | INFO     | __main__ | [shahbaz_sharif] 58 → 58 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:43 | INFO     | __main__ | [maryam_nawaz] 53 → 53 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:43 | INFO     | __main__ | [bilawal_bhutto] 68 → 68 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:43 | INFO     | __main__ | [asif_ali_zardari] 71 → 71 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:44 | INFO     | __main__ | [fazlur_rehman] 75 → 75 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:44 | INFO     | __main__ | [sheikh_rasheed] 70 → 70 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:44 | INFO     | __main__ | [mohsin_naqvi] 28 → 28 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:45 | INFO     | __main__ | [hina_rabbani_khar] 47 → 47 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:45 | INFO     | __main__ | [murad_ali_shah] 42 → 42 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:47 | INFO     | __main__ | [ali_amin_gandapur] 45 → 45 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:53 | INFO     | __main__ | [khawaja_asif] 80 → 80 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:03:57 | INFO     | __main__ | [attaullah_tarar] 87 → 87 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:04:03 | INFO     | __main__ | [chaudhry_pervaiz_elahi] 115 → 115 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:04:05 | INFO     | __main__ | [ahmed_sharif_chaudhry] 56 → 56 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:04:05 | INFO     | __main__ | 
+----------------------------------------------------------------------
+2026-05-11 20:04:05 | INFO     | __main__ |   CLEANING SUMMARY
+2026-05-11 20:04:05 | INFO     | __main__ |   Class                      Before   After   Corr.    Blur    Dup.
+2026-05-11 20:04:05 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 20:04:05 | INFO     | __main__ |   imran_khan                    113      96       0      16       1
+2026-05-11 20:04:05 | INFO     | __main__ |   nawaz_sharif                   59      59       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   shahbaz_sharif                 58      58       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   maryam_nawaz                   53      53       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   bilawal_bhutto                 68      68       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   asif_ali_zardari               71      71       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   fazlur_rehman                  75      75       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   sheikh_rasheed                 70      70       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   mohsin_naqvi                   28      28       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   hina_rabbani_khar              47      47       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   murad_ali_shah                 42      42       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   ali_amin_gandapur              45      45       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   khawaja_asif                   80      80       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   attaullah_tarar                87      87       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   chaudhry_pervaiz_elahi        115     115       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ |   ahmed_sharif_chaudhry          56      56       0       0       0
+2026-05-11 20:04:05 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 20:04:05 | INFO     | __main__ |   Stats saved → C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\02_cleaning_stats.json
+2026-05-11 20:47:45 | INFO     | __main__ | ============================================================
+2026-05-11 20:47:45 | INFO     | __main__ |   STEP 2 -- DATASET CLEANING
+2026-05-11 20:47:45 | INFO     | __main__ |   Classes: 16 | Blur threshold: 100.0
+2026-05-11 20:47:45 | INFO     | __main__ | ============================================================
+2026-05-11 20:47:58 | INFO     | __main__ | [imran_khan] 257 → 172 (removed 85: corrupt=0, small=0, blur=46, dup=39)
+2026-05-11 20:48:02 | INFO     | __main__ | [nawaz_sharif] 169 → 127 (removed 42: corrupt=0, small=0, blur=30, dup=12)
+2026-05-11 20:48:15 | INFO     | __main__ | [shahbaz_sharif] 169 → 115 (removed 54: corrupt=0, small=0, blur=22, dup=32)
+2026-05-11 20:48:20 | INFO     | __main__ | [maryam_nawaz] 238 → 175 (removed 63: corrupt=0, small=0, blur=43, dup=20)
+2026-05-11 20:48:20 | INFO     | __main__ | [bilawal_bhutto] 77 → 71 (removed 6: corrupt=0, small=0, blur=6, dup=0)
+2026-05-11 20:48:21 | INFO     | __main__ | [asif_ali_zardari] 71 → 71 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:21 | INFO     | __main__ | [fazlur_rehman] 75 → 75 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:21 | INFO     | __main__ | [sheikh_rasheed] 70 → 70 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:21 | INFO     | __main__ | [mohsin_naqvi] 28 → 28 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:21 | INFO     | __main__ | [hina_rabbani_khar] 47 → 47 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:21 | INFO     | __main__ | [murad_ali_shah] 42 → 42 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:22 | INFO     | __main__ | [ali_amin_gandapur] 45 → 45 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:24 | INFO     | __main__ | [khawaja_asif] 80 → 80 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:25 | INFO     | __main__ | [attaullah_tarar] 87 → 87 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:27 | INFO     | __main__ | [chaudhry_pervaiz_elahi] 115 → 115 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:29 | INFO     | __main__ | [ahmed_sharif_chaudhry] 56 → 56 (removed 0: corrupt=0, small=0, blur=0, dup=0)
+2026-05-11 20:48:29 | INFO     | __main__ | 
+----------------------------------------------------------------------
+2026-05-11 20:48:29 | INFO     | __main__ |   CLEANING SUMMARY
+2026-05-11 20:48:29 | INFO     | __main__ |   Class                      Before   After   Corr.    Blur    Dup.
+2026-05-11 20:48:29 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 20:48:29 | INFO     | __main__ |   imran_khan                    257     172       0      46      39
+2026-05-11 20:48:29 | INFO     | __main__ |   nawaz_sharif                  169     127       0      30      12
+2026-05-11 20:48:29 | INFO     | __main__ |   shahbaz_sharif                169     115       0      22      32
+2026-05-11 20:48:29 | INFO     | __main__ |   maryam_nawaz                  238     175       0      43      20
+2026-05-11 20:48:29 | INFO     | __main__ |   bilawal_bhutto                 77      71       0       6       0
+2026-05-11 20:48:29 | INFO     | __main__ |   asif_ali_zardari               71      71       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   fazlur_rehman                  75      75       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   sheikh_rasheed                 70      70       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   mohsin_naqvi                   28      28       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   hina_rabbani_khar              47      47       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   murad_ali_shah                 42      42       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   ali_amin_gandapur              45      45       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   khawaja_asif                   80      80       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   attaullah_tarar                87      87       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   chaudhry_pervaiz_elahi        115     115       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ |   ahmed_sharif_chaudhry          56      56       0       0       0
+2026-05-11 20:48:29 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 20:48:29 | INFO     | __main__ |   Stats saved → C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\02_cleaning_stats.json
+2026-05-11 21:43:49 | INFO     | __main__ | ============================================================
+2026-05-11 21:43:49 | INFO     | __main__ |   STEP 2 -- DATASET CLEANING
+2026-05-11 21:43:49 | INFO     | __main__ |   Classes: 16 | Blur threshold: 100.0
+2026-05-11 21:43:49 | INFO     | __main__ | ============================================================
+2026-05-11 21:44:08 | INFO     | __main__ | [imran_khan] 602 → 236 (removed 366: corrupt=0, small=3, blur=71, dup=292)
+2026-05-11 21:44:19 | INFO     | __main__ | [nawaz_sharif] 552 → 212 (removed 340: corrupt=0, small=0, blur=47, dup=293)
+2026-05-11 21:44:45 | INFO     | __main__ | [shahbaz_sharif] 457 → 174 (removed 283: corrupt=0, small=0, blur=25, dup=258)
+2026-05-11 21:44:56 | INFO     | __main__ | [maryam_nawaz] 602 → 236 (removed 366: corrupt=0, small=0, blur=66, dup=300)
+2026-05-11 21:45:04 | INFO     | __main__ | [bilawal_bhutto] 465 → 214 (removed 251: corrupt=0, small=0, blur=51, dup=200)
+2026-05-11 21:45:13 | INFO     | __main__ | [asif_ali_zardari] 571 → 262 (removed 309: corrupt=0, small=2, blur=58, dup=249)
+2026-05-11 21:45:21 | INFO     | __main__ | [fazlur_rehman] 584 → 286 (removed 298: corrupt=0, small=1, blur=25, dup=272)
+2026-05-11 21:45:30 | INFO     | __main__ | [sheikh_rasheed] 513 → 262 (removed 251: corrupt=0, small=7, blur=70, dup=174)
+2026-05-11 21:45:38 | INFO     | __main__ | [mohsin_naqvi] 555 → 185 (removed 370: corrupt=0, small=3, blur=50, dup=317)
+2026-05-11 21:45:49 | INFO     | __main__ | [hina_rabbani_khar] 589 → 157 (removed 432: corrupt=0, small=0, blur=51, dup=381)
+2026-05-11 21:45:55 | INFO     | __main__ | [murad_ali_shah] 591 → 171 (removed 420: corrupt=0, small=0, blur=36, dup=384)
+2026-05-11 21:46:02 | INFO     | __main__ | [ali_amin_gandapur] 594 → 151 (removed 443: corrupt=0, small=0, blur=52, dup=391)
+2026-05-11 21:46:09 | INFO     | __main__ | [khawaja_asif] 540 → 207 (removed 333: corrupt=0, small=0, blur=33, dup=300)
+2026-05-11 21:46:14 | INFO     | __main__ | [attaullah_tarar] 413 → 112 (removed 301: corrupt=0, small=0, blur=19, dup=282)
+2026-05-11 21:46:22 | INFO     | __main__ | [chaudhry_pervaiz_elahi] 598 → 239 (removed 359: corrupt=0, small=0, blur=24, dup=335)
+2026-05-11 21:46:31 | INFO     | __main__ | [ahmed_sharif_chaudhry] 601 → 227 (removed 374: corrupt=0, small=0, blur=44, dup=330)
+2026-05-11 21:46:31 | INFO     | __main__ | 
+----------------------------------------------------------------------
+2026-05-11 21:46:31 | INFO     | __main__ |   CLEANING SUMMARY
+2026-05-11 21:46:31 | INFO     | __main__ |   Class                      Before   After   Corr.    Blur    Dup.
+2026-05-11 21:46:31 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 21:46:31 | INFO     | __main__ |   imran_khan                    602     236       3      71     292
+2026-05-11 21:46:31 | INFO     | __main__ |   nawaz_sharif                  552     212       0      47     293
+2026-05-11 21:46:31 | INFO     | __main__ |   shahbaz_sharif                457     174       0      25     258
+2026-05-11 21:46:31 | INFO     | __main__ |   maryam_nawaz                  602     236       0      66     300
+2026-05-11 21:46:31 | INFO     | __main__ |   bilawal_bhutto                465     214       0      51     200
+2026-05-11 21:46:31 | INFO     | __main__ |   asif_ali_zardari              571     262       2      58     249
+2026-05-11 21:46:31 | INFO     | __main__ |   fazlur_rehman                 584     286       1      25     272
+2026-05-11 21:46:31 | INFO     | __main__ |   sheikh_rasheed                513     262       7      70     174
+2026-05-11 21:46:31 | INFO     | __main__ |   mohsin_naqvi                  555     185       3      50     317
+2026-05-11 21:46:31 | INFO     | __main__ |   hina_rabbani_khar             589     157       0      51     381
+2026-05-11 21:46:31 | INFO     | __main__ |   murad_ali_shah                591     171       0      36     384
+2026-05-11 21:46:31 | INFO     | __main__ |   ali_amin_gandapur             594     151       0      52     391
+2026-05-11 21:46:31 | INFO     | __main__ |   khawaja_asif                  540     207       0      33     300
+2026-05-11 21:46:31 | INFO     | __main__ |   attaullah_tarar               413     112       0      19     282
+2026-05-11 21:46:31 | INFO     | __main__ |   chaudhry_pervaiz_elahi        598     239       0      24     335
+2026-05-11 21:46:31 | INFO     | __main__ |   ahmed_sharif_chaudhry         601     227       0      44     330
+2026-05-11 21:46:31 | INFO     | __main__ | ----------------------------------------------------------------------
+2026-05-11 21:46:31 | INFO     | __main__ |   Stats saved → C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\02_cleaning_stats.json

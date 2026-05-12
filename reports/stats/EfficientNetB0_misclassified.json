@@ -1,0 +1,32 @@
+[
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\maryam_nawaz\\maryam_nawaz_0069.jpg",
+    "true": "maryam_nawaz",
+    "pred": "hina_rabbani_khar",
+    "confidence": 0.9428752064704895
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\maryam_nawaz\\maryam_nawaz_0031.jpg",
+    "true": "maryam_nawaz",
+    "pred": "hina_rabbani_khar",
+    "confidence": 0.9377506375312805
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\hina_rabbani_khar\\hina_rabbani_khar_0007.jpg",
+    "true": "hina_rabbani_khar",
+    "pred": "maryam_nawaz",
+    "confidence": 0.8969502449035645
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\imran_khan\\imran_khan_0145.jpg",
+    "true": "imran_khan",
+    "pred": "chaudhry_pervaiz_elahi",
+    "confidence": 0.8745062947273254
+  },
+  {
+    "path": "C:\\Users\\zohai\\Downloads\\icrawler-master\\icrawler-master\\politician_classifier\\dataset\\processed\\test\\khawaja_asif\\000262.jpg",
+    "true": "khawaja_asif",
+    "pred": "sheikh_rasheed",
+    "confidence": 0.7718054056167603
+  }
+]

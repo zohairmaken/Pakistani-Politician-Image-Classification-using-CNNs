@@ -1,0 +1,111 @@
+{
+  "ahmed_sharif_chaudhry": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8.0
+  },
+  "ali_amin_gandapur": {
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1-score": 0.9333333333333333,
+    "support": 8.0
+  },
+  "asif_ali_zardari": {
+    "precision": 0.7,
+    "recall": 0.875,
+    "f1-score": 0.7777777777777778,
+    "support": 8.0
+  },
+  "attaullah_tarar": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8.0
+  },
+  "bilawal_bhutto": {
+    "precision": 0.8571428571428571,
+    "recall": 0.9230769230769231,
+    "f1-score": 0.8888888888888888,
+    "support": 13.0
+  },
+  "chaudhry_pervaiz_elahi": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1-score": 0.75,
+    "support": 8.0
+  },
+  "fazlur_rehman": {
+    "precision": 0.9230769230769231,
+    "recall": 1.0,
+    "f1-score": 0.96,
+    "support": 12.0
+  },
+  "hina_rabbani_khar": {
+    "precision": 0.7777777777777778,
+    "recall": 0.7777777777777778,
+    "f1-score": 0.7777777777777778,
+    "support": 9.0
+  },
+  "imran_khan": {
+    "precision": 0.75,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8,
+    "support": 14.0
+  },
+  "khawaja_asif": {
+    "precision": 1.0,
+    "recall": 0.625,
+    "f1-score": 0.7692307692307693,
+    "support": 8.0
+  },
+  "maryam_nawaz": {
+    "precision": 0.75,
+    "recall": 0.6,
+    "f1-score": 0.6666666666666666,
+    "support": 10.0
+  },
+  "mohsin_naqvi": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 8.0
+  },
+  "murad_ali_shah": {
+    "precision": 0.8,
+    "recall": 0.5,
+    "f1-score": 0.6153846153846154,
+    "support": 8.0
+  },
+  "nawaz_sharif": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9166666666666666,
+    "support": 12.0
+  },
+  "shahbaz_sharif": {
+    "precision": 0.7142857142857143,
+    "recall": 1.0,
+    "f1-score": 0.8333333333333334,
+    "support": 10.0
+  },
+  "sheikh_rasheed": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 9.0
+  },
+  "accuracy": 0.8366013071895425,
+  "macro avg": {
+    "precision": 0.8555593711843712,
+    "recall": 0.8249790140415141,
+    "f1-score": 0.8258043345543346,
+    "support": 153.0
+  },
+  "weighted avg": {
+    "precision": 0.8504093945270417,
+    "recall": 0.8366013071895425,
+    "f1-score": 0.8306469710391279,
+    "support": 153.0
+  }
+}

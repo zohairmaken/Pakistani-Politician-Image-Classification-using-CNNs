@@ -1,0 +1,16 @@
+2026-05-11 19:17:25 | INFO     | __main__ | Using MTCNN for face detection.
+2026-05-11 19:17:25 | INFO     | __main__ | ============================================================
+2026-05-11 19:17:25 | INFO     | __main__ |   STEP 3 -- FACE DETECTION & CROPPING
+2026-05-11 19:17:25 | INFO     | __main__ |   Backend: mtcnn | Margin: 0.20 | Classes: 16
+2026-05-11 19:17:25 | INFO     | __main__ | ============================================================
+2026-05-11 19:18:22 | INFO     | __main__ | [imran_khan] 100 images → 98 faces cropped | 2 removed (no face)
+2026-05-11 19:19:29 | INFO     | __main__ | [nawaz_sharif] 100 images → 99 faces cropped | 1 removed (no face)
+2026-05-11 19:23:43 | INFO     | __main__ | [shahbaz_sharif] 97 images → 97 faces cropped | 0 removed (no face)
+2026-05-11 19:25:01 | INFO     | __main__ | [maryam_nawaz] 116 images → 116 faces cropped | 0 removed (no face)
+2026-05-11 19:26:21 | INFO     | __main__ | [bilawal_bhutto] 114 images → 113 faces cropped | 1 removed (no face)
+2026-05-11 19:27:30 | INFO     | __main__ | [asif_ali_zardari] 104 images → 102 faces cropped | 2 removed (no face)
+2026-05-11 19:28:43 | INFO     | __main__ | [fazlur_rehman] 119 images → 115 faces cropped | 4 removed (no face)
+2026-05-11 19:32:03 | INFO     | __main__ | [sheikh_rasheed] 113 images → 111 faces cropped | 2 removed (no face)
+2026-05-11 19:32:45 | INFO     | __main__ | [mohsin_naqvi] 67 images → 67 faces cropped | 0 removed (no face)
+2026-05-11 19:33:50 | INFO     | __main__ | [hina_rabbani_khar] 95 images → 95 faces cropped | 0 removed (no face)
+2026-05-11 19:35:00 | INFO     | __main__ | [murad_ali_shah] 109 images → 109 faces cropped | 0 removed (no face)

@@ -1,0 +1,286 @@
+2026-05-11 20:17:34 | INFO     | __main__ | =================================================================
+2026-05-11 20:17:34 | INFO     | __main__ |   STEP 4 -- TRAIN / VAL / TEST SPLIT
+2026-05-11 20:17:34 | INFO     | __main__ |   Ratios: train=75% | val=15% | test=10% | seed=42
+2026-05-11 20:17:34 | INFO     | __main__ |   Classes: 16
+2026-05-11 20:17:34 | INFO     | __main__ | =================================================================
+2026-05-11 20:17:34 | INFO     | __main__ | [imran_khan] total=94 | train=70 | val=14 | test=10
+2026-05-11 20:17:34 | INFO     | __main__ | [nawaz_sharif] total=58 | train=43 | val=9 | test=6
+2026-05-11 20:17:34 | INFO     | __main__ | [shahbaz_sharif] total=58 | train=43 | val=9 | test=6
+2026-05-11 20:17:34 | INFO     | __main__ | [maryam_nawaz] total=53 | train=39 | val=8 | test=6
+2026-05-11 20:17:34 | INFO     | __main__ | [bilawal_bhutto] total=67 | train=50 | val=10 | test=7
+2026-05-11 20:17:34 | INFO     | __main__ | [asif_ali_zardari] total=67 | train=50 | val=10 | test=7
+2026-05-11 20:17:35 | INFO     | __main__ | [fazlur_rehman] total=73 | train=54 | val=11 | test=8
+2026-05-11 20:17:35 | INFO     | __main__ | [sheikh_rasheed] total=70 | train=52 | val=10 | test=8
+2026-05-11 20:17:35 | INFO     | __main__ | [mohsin_naqvi] total=28 | train=21 | val=4 | test=3
+2026-05-11 20:17:35 | INFO     | __main__ | [hina_rabbani_khar] total=47 | train=35 | val=7 | test=5
+2026-05-11 20:17:35 | INFO     | __main__ | [murad_ali_shah] total=41 | train=30 | val=6 | test=5
+2026-05-11 20:17:35 | INFO     | __main__ | [ali_amin_gandapur] total=33 | train=24 | val=5 | test=4
+2026-05-11 20:17:35 | INFO     | __main__ | [khawaja_asif] total=52 | train=39 | val=7 | test=6
+2026-05-11 20:17:35 | INFO     | __main__ | [attaullah_tarar] total=57 | train=42 | val=9 | test=6
+2026-05-11 20:17:35 | INFO     | __main__ | [chaudhry_pervaiz_elahi] total=73 | train=54 | val=11 | test=8
+2026-05-11 20:17:36 | INFO     | __main__ | [ahmed_sharif_chaudhry] total=32 | train=24 | val=4 | test=4
+2026-05-11 20:17:36 | INFO     | __main__ | 
+-----------------------------------------------------------------
+2026-05-11 20:17:36 | INFO     | __main__ |   SPLIT SUMMARY
+2026-05-11 20:17:36 | INFO     | __main__ |   Class                          Total   Train     Val    Test
+2026-05-11 20:17:36 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 20:17:36 | INFO     | __main__ |   imran_khan                        94      70      14      10
+2026-05-11 20:17:36 | INFO     | __main__ |   nawaz_sharif                      58      43       9       6
+2026-05-11 20:17:36 | INFO     | __main__ |   shahbaz_sharif                    58      43       9       6
+2026-05-11 20:17:36 | INFO     | __main__ |   maryam_nawaz                      53      39       8       6
+2026-05-11 20:17:36 | INFO     | __main__ |   bilawal_bhutto                    67      50      10       7
+2026-05-11 20:17:36 | INFO     | __main__ |   asif_ali_zardari                  67      50      10       7
+2026-05-11 20:17:36 | INFO     | __main__ |   fazlur_rehman                     73      54      11       8
+2026-05-11 20:17:36 | INFO     | __main__ |   sheikh_rasheed                    70      52      10       8
+2026-05-11 20:17:36 | INFO     | __main__ |   mohsin_naqvi                      28      21       4       3
+2026-05-11 20:17:36 | INFO     | __main__ |   hina_rabbani_khar                 47      35       7       5
+2026-05-11 20:17:36 | INFO     | __main__ |   murad_ali_shah                    41      30       6       5
+2026-05-11 20:17:36 | INFO     | __main__ |   ali_amin_gandapur                 33      24       5       4
+2026-05-11 20:17:36 | INFO     | __main__ |   khawaja_asif                      52      39       7       6
+2026-05-11 20:17:36 | INFO     | __main__ |   attaullah_tarar                   57      42       9       6
+2026-05-11 20:17:36 | INFO     | __main__ |   chaudhry_pervaiz_elahi            73      54      11       8
+2026-05-11 20:17:36 | INFO     | __main__ |   ahmed_sharif_chaudhry             32      24       4       4
+2026-05-11 20:17:36 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 20:17:36 | INFO     | __main__ |   TOTAL                            903     670     134      99
+2026-05-11 20:17:36 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 20:17:36 | INFO     | __main__ |   Stats saved -> C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\04_split_stats.json
+2026-05-11 20:17:36 | INFO     | __main__ | 
+  Dataset ready at: dataset/processed/
+2026-05-11 20:29:38 | INFO     | __main__ | =================================================================
+2026-05-11 20:29:38 | INFO     | __main__ |   STEP 4 -- TRAIN / VAL / TEST SPLIT
+2026-05-11 20:29:38 | INFO     | __main__ |   Ratios: train=75% | val=15% | test=10% | seed=42
+2026-05-11 20:29:38 | INFO     | __main__ |   Classes: 16
+2026-05-11 20:29:38 | INFO     | __main__ | =================================================================
+2026-05-11 20:29:38 | INFO     | __main__ | [imran_khan] total=94 | train=70 | val=14 | test=10
+2026-05-11 20:29:38 | INFO     | __main__ | [nawaz_sharif] total=58 | train=43 | val=9 | test=6
+2026-05-11 20:29:38 | INFO     | __main__ | [shahbaz_sharif] total=58 | train=43 | val=9 | test=6
+2026-05-11 20:29:38 | INFO     | __main__ | [maryam_nawaz] total=53 | train=39 | val=8 | test=6
+2026-05-11 20:29:38 | INFO     | __main__ | [bilawal_bhutto] total=67 | train=50 | val=10 | test=7
+2026-05-11 20:29:38 | INFO     | __main__ | [asif_ali_zardari] total=67 | train=50 | val=10 | test=7
+2026-05-11 20:29:38 | INFO     | __main__ | [fazlur_rehman] total=73 | train=54 | val=11 | test=8
+2026-05-11 20:29:38 | INFO     | __main__ | [sheikh_rasheed] total=70 | train=52 | val=10 | test=8
+2026-05-11 20:29:38 | INFO     | __main__ | [mohsin_naqvi] total=28 | train=21 | val=4 | test=3
+2026-05-11 20:29:39 | INFO     | __main__ | [hina_rabbani_khar] total=47 | train=35 | val=7 | test=5
+2026-05-11 20:29:39 | INFO     | __main__ | [murad_ali_shah] total=41 | train=30 | val=6 | test=5
+2026-05-11 20:29:39 | INFO     | __main__ | [ali_amin_gandapur] total=33 | train=24 | val=5 | test=4
+2026-05-11 20:29:39 | INFO     | __main__ | [khawaja_asif] total=52 | train=39 | val=7 | test=6
+2026-05-11 20:29:39 | INFO     | __main__ | [attaullah_tarar] total=57 | train=42 | val=9 | test=6
+2026-05-11 20:29:39 | INFO     | __main__ | [chaudhry_pervaiz_elahi] total=73 | train=54 | val=11 | test=8
+2026-05-11 20:29:39 | INFO     | __main__ | [ahmed_sharif_chaudhry] total=32 | train=24 | val=4 | test=4
+2026-05-11 20:29:39 | INFO     | __main__ | 
+-----------------------------------------------------------------
+2026-05-11 20:29:39 | INFO     | __main__ |   SPLIT SUMMARY
+2026-05-11 20:29:39 | INFO     | __main__ |   Class                          Total   Train     Val    Test
+2026-05-11 20:29:39 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 20:29:39 | INFO     | __main__ |   imran_khan                        94      70      14      10
+2026-05-11 20:29:39 | INFO     | __main__ |   nawaz_sharif                      58      43       9       6
+2026-05-11 20:29:39 | INFO     | __main__ |   shahbaz_sharif                    58      43       9       6
+2026-05-11 20:29:39 | INFO     | __main__ |   maryam_nawaz                      53      39       8       6
+2026-05-11 20:29:39 | INFO     | __main__ |   bilawal_bhutto                    67      50      10       7
+2026-05-11 20:29:39 | INFO     | __main__ |   asif_ali_zardari                  67      50      10       7
+2026-05-11 20:29:39 | INFO     | __main__ |   fazlur_rehman                     73      54      11       8
+2026-05-11 20:29:39 | INFO     | __main__ |   sheikh_rasheed                    70      52      10       8
+2026-05-11 20:29:39 | INFO     | __main__ |   mohsin_naqvi                      28      21       4       3
+2026-05-11 20:29:39 | INFO     | __main__ |   hina_rabbani_khar                 47      35       7       5
+2026-05-11 20:29:39 | INFO     | __main__ |   murad_ali_shah                    41      30       6       5
+2026-05-11 20:29:39 | INFO     | __main__ |   ali_amin_gandapur                 33      24       5       4
+2026-05-11 20:29:39 | INFO     | __main__ |   khawaja_asif                      52      39       7       6
+2026-05-11 20:29:39 | INFO     | __main__ |   attaullah_tarar                   57      42       9       6
+2026-05-11 20:29:39 | INFO     | __main__ |   chaudhry_pervaiz_elahi            73      54      11       8
+2026-05-11 20:29:39 | INFO     | __main__ |   ahmed_sharif_chaudhry             32      24       4       4
+2026-05-11 20:29:39 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 20:29:39 | INFO     | __main__ |   TOTAL                            903     670     134      99
+2026-05-11 20:29:39 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 20:29:39 | INFO     | __main__ |   Stats saved -> C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\04_split_stats.json
+2026-05-11 20:29:39 | INFO     | __main__ | 
+  Dataset ready at: dataset/processed/
+2026-05-11 23:09:19 | INFO     | __main__ | =================================================================
+2026-05-11 23:09:19 | INFO     | __main__ |   STEP 4 -- TRAIN / VAL / TEST SPLIT
+2026-05-11 23:09:19 | INFO     | __main__ |   Ratios: train=75% | val=15% | test=10% | seed=42
+2026-05-11 23:09:19 | INFO     | __main__ |   Classes: 16
+2026-05-11 23:09:19 | INFO     | __main__ | =================================================================
+2026-05-11 23:09:21 | INFO     | __main__ | [imran_khan] total=165 | train=123 | val=25 | test=17
+2026-05-11 23:09:22 | INFO     | __main__ | [nawaz_sharif] total=122 | train=91 | val=18 | test=13
+2026-05-11 23:09:24 | INFO     | __main__ | [shahbaz_sharif] total=111 | train=83 | val=16 | test=12
+2026-05-11 23:09:25 | INFO     | __main__ | [maryam_nawaz] total=122 | train=91 | val=18 | test=13
+2026-05-11 23:09:26 | INFO     | __main__ | [bilawal_bhutto] total=144 | train=108 | val=21 | test=15
+2026-05-11 23:09:27 | INFO     | __main__ | [asif_ali_zardari] total=166 | train=124 | val=25 | test=17
+2026-05-11 23:09:29 | INFO     | __main__ | [fazlur_rehman] total=159 | train=119 | val=24 | test=16
+2026-05-11 23:09:31 | INFO     | __main__ | [sheikh_rasheed] total=151 | train=113 | val=22 | test=16
+2026-05-11 23:09:32 | INFO     | __main__ | [mohsin_naqvi] total=88 | train=66 | val=13 | test=9
+2026-05-11 23:09:33 | INFO     | __main__ | [hina_rabbani_khar] total=116 | train=87 | val=17 | test=12
+2026-05-11 23:09:34 | INFO     | __main__ | [murad_ali_shah] total=95 | train=71 | val=14 | test=10
+2026-05-11 23:09:34 | INFO     | __main__ | [ali_amin_gandapur] total=71 | train=53 | val=10 | test=8
+2026-05-11 23:09:35 | INFO     | __main__ | [khawaja_asif] total=79 | train=59 | val=12 | test=8
+2026-05-11 23:09:36 | INFO     | __main__ | [attaullah_tarar] total=57 | train=42 | val=9 | test=6
+2026-05-11 23:09:36 | INFO     | __main__ | [chaudhry_pervaiz_elahi] total=77 | train=57 | val=12 | test=8
+2026-05-11 23:09:37 | INFO     | __main__ | [ahmed_sharif_chaudhry] total=75 | train=56 | val=11 | test=8
+2026-05-11 23:09:37 | INFO     | __main__ | 
+-----------------------------------------------------------------
+2026-05-11 23:09:37 | INFO     | __main__ |   SPLIT SUMMARY
+2026-05-11 23:09:37 | INFO     | __main__ |   Class                          Total   Train     Val    Test
+2026-05-11 23:09:37 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 23:09:37 | INFO     | __main__ |   imran_khan                       165     123      25      17
+2026-05-11 23:09:37 | INFO     | __main__ |   nawaz_sharif                     122      91      18      13
+2026-05-11 23:09:37 | INFO     | __main__ |   shahbaz_sharif                   111      83      16      12
+2026-05-11 23:09:37 | INFO     | __main__ |   maryam_nawaz                     122      91      18      13
+2026-05-11 23:09:37 | INFO     | __main__ |   bilawal_bhutto                   144     108      21      15
+2026-05-11 23:09:37 | INFO     | __main__ |   asif_ali_zardari                 166     124      25      17
+2026-05-11 23:09:37 | INFO     | __main__ |   fazlur_rehman                    159     119      24      16
+2026-05-11 23:09:37 | INFO     | __main__ |   sheikh_rasheed                   151     113      22      16
+2026-05-11 23:09:37 | INFO     | __main__ |   mohsin_naqvi                      88      66      13       9
+2026-05-11 23:09:37 | INFO     | __main__ |   hina_rabbani_khar                116      87      17      12
+2026-05-11 23:09:37 | INFO     | __main__ |   murad_ali_shah                    95      71      14      10
+2026-05-11 23:09:37 | INFO     | __main__ |   ali_amin_gandapur                 71      53      10       8
+2026-05-11 23:09:37 | INFO     | __main__ |   khawaja_asif                      79      59      12       8
+2026-05-11 23:09:37 | INFO     | __main__ |   attaullah_tarar                   57      42       9       6
+2026-05-11 23:09:37 | INFO     | __main__ |   chaudhry_pervaiz_elahi            77      57      12       8
+2026-05-11 23:09:37 | INFO     | __main__ |   ahmed_sharif_chaudhry             75      56      11       8
+2026-05-11 23:09:37 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 23:09:37 | INFO     | __main__ |   TOTAL                           1798    1343     267     188
+2026-05-11 23:09:37 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-11 23:09:37 | INFO     | __main__ |   Stats saved -> C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\04_split_stats.json
+2026-05-11 23:09:37 | INFO     | __main__ | 
+  Dataset ready at: dataset/processed/
+2026-05-12 01:22:18 | INFO     | __main__ | =================================================================
+2026-05-12 01:22:18 | INFO     | __main__ |   STEP 4 -- TRAIN / VAL / TEST SPLIT
+2026-05-12 01:22:18 | INFO     | __main__ |   Ratios: train=75% | val=15% | test=10% | seed=42
+2026-05-12 01:22:18 | INFO     | __main__ |   Classes: 16
+2026-05-12 01:22:18 | INFO     | __main__ | =================================================================
+2026-05-12 01:22:20 | INFO     | __main__ | [imran_khan] total=162 | train=121 | val=24 | test=17
+2026-05-12 01:22:22 | INFO     | __main__ | [nawaz_sharif] total=108 | train=81 | val=16 | test=11
+2026-05-12 01:22:23 | INFO     | __main__ | [shahbaz_sharif] total=99 | train=74 | val=15 | test=10
+2026-05-12 01:22:24 | INFO     | __main__ | [maryam_nawaz] total=95 | train=71 | val=14 | test=10
+2026-05-12 01:22:26 | INFO     | __main__ | [bilawal_bhutto] total=125 | train=93 | val=19 | test=13
+2026-05-12 01:22:27 | INFO     | __main__ | [asif_ali_zardari] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:22:28 | INFO     | __main__ | [fazlur_rehman] total=120 | train=90 | val=18 | test=12
+2026-05-12 01:22:28 | WARNING  | __main__ | [sheikh_rasheed] Too few images (0) to split — skipping.
+2026-05-12 01:22:29 | INFO     | __main__ | [mohsin_naqvi] total=76 | train=57 | val=11 | test=8
+2026-05-12 01:22:30 | INFO     | __main__ | [hina_rabbani_khar] total=85 | train=63 | val=13 | test=9
+2026-05-12 01:22:31 | INFO     | __main__ | [murad_ali_shah] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:22:31 | INFO     | __main__ | [ali_amin_gandapur] total=67 | train=50 | val=10 | test=7
+2026-05-12 01:22:31 | WARNING  | __main__ | [khawaja_asif] Too few images (0) to split — skipping.
+2026-05-12 01:22:32 | INFO     | __main__ | [attaullah_tarar] total=41 | train=30 | val=6 | test=5
+2026-05-12 01:22:33 | INFO     | __main__ | [chaudhry_pervaiz_elahi] total=72 | train=54 | val=10 | test=8
+2026-05-12 01:22:34 | INFO     | __main__ | [ahmed_sharif_chaudhry] total=64 | train=48 | val=9 | test=7
+2026-05-12 01:22:34 | INFO     | __main__ | 
+-----------------------------------------------------------------
+2026-05-12 01:22:34 | INFO     | __main__ |   SPLIT SUMMARY
+2026-05-12 01:22:34 | INFO     | __main__ |   Class                          Total   Train     Val    Test
+2026-05-12 01:22:34 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 01:22:34 | INFO     | __main__ |   imran_khan                       162     121      24      17
+2026-05-12 01:22:34 | INFO     | __main__ |   nawaz_sharif                     108      81      16      11
+2026-05-12 01:22:34 | INFO     | __main__ |   shahbaz_sharif                    99      74      15      10
+2026-05-12 01:22:34 | INFO     | __main__ |   maryam_nawaz                      95      71      14      10
+2026-05-12 01:22:34 | INFO     | __main__ |   bilawal_bhutto                   125      93      19      13
+2026-05-12 01:22:34 | INFO     | __main__ |   asif_ali_zardari                  80      60      12       8
+2026-05-12 01:22:34 | INFO     | __main__ |   fazlur_rehman                    120      90      18      12
+2026-05-12 01:22:34 | INFO     | __main__ |   mohsin_naqvi                      76      57      11       8
+2026-05-12 01:22:34 | INFO     | __main__ |   hina_rabbani_khar                 85      63      13       9
+2026-05-12 01:22:34 | INFO     | __main__ |   murad_ali_shah                    80      60      12       8
+2026-05-12 01:22:34 | INFO     | __main__ |   ali_amin_gandapur                 67      50      10       7
+2026-05-12 01:22:34 | INFO     | __main__ |   attaullah_tarar                   41      30       6       5
+2026-05-12 01:22:34 | INFO     | __main__ |   chaudhry_pervaiz_elahi            72      54      10       8
+2026-05-12 01:22:34 | INFO     | __main__ |   ahmed_sharif_chaudhry             64      48       9       7
+2026-05-12 01:22:34 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 01:22:34 | INFO     | __main__ |   TOTAL                           1274     952     189     133
+2026-05-12 01:22:34 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 01:22:34 | INFO     | __main__ |   Stats saved -> C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\04_split_stats.json
+2026-05-12 01:22:34 | INFO     | __main__ | 
+  Dataset ready at: dataset/processed/
+2026-05-12 01:38:36 | INFO     | __main__ | =================================================================
+2026-05-12 01:38:36 | INFO     | __main__ |   STEP 4 -- TRAIN / VAL / TEST SPLIT
+2026-05-12 01:38:36 | INFO     | __main__ |   Ratios: train=75% | val=15% | test=10% | seed=42
+2026-05-12 01:38:36 | INFO     | __main__ |   Classes: 16
+2026-05-12 01:38:36 | INFO     | __main__ | =================================================================
+2026-05-12 01:38:36 | INFO     | __main__ | [imran_khan] total=165 | train=123 | val=25 | test=17
+2026-05-12 01:38:37 | INFO     | __main__ | [nawaz_sharif] total=122 | train=91 | val=18 | test=13
+2026-05-12 01:38:37 | INFO     | __main__ | [shahbaz_sharif] total=99 | train=74 | val=15 | test=10
+2026-05-12 01:38:37 | INFO     | __main__ | [maryam_nawaz] total=95 | train=71 | val=14 | test=10
+2026-05-12 01:38:38 | INFO     | __main__ | [bilawal_bhutto] total=125 | train=93 | val=19 | test=13
+2026-05-12 01:38:38 | INFO     | __main__ | [asif_ali_zardari] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:38 | INFO     | __main__ | [fazlur_rehman] total=120 | train=90 | val=18 | test=12
+2026-05-12 01:38:38 | INFO     | __main__ | [sheikh_rasheed] total=100 | train=75 | val=15 | test=10
+2026-05-12 01:38:39 | INFO     | __main__ | [mohsin_naqvi] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:39 | INFO     | __main__ | [hina_rabbani_khar] total=85 | train=63 | val=13 | test=9
+2026-05-12 01:38:39 | INFO     | __main__ | [murad_ali_shah] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:39 | INFO     | __main__ | [ali_amin_gandapur] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:40 | INFO     | __main__ | [khawaja_asif] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:40 | INFO     | __main__ | [attaullah_tarar] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:40 | INFO     | __main__ | [chaudhry_pervaiz_elahi] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:40 | INFO     | __main__ | [ahmed_sharif_chaudhry] total=80 | train=60 | val=12 | test=8
+2026-05-12 01:38:40 | INFO     | __main__ | 
+-----------------------------------------------------------------
+2026-05-12 01:38:40 | INFO     | __main__ |   SPLIT SUMMARY
+2026-05-12 01:38:40 | INFO     | __main__ |   Class                          Total   Train     Val    Test
+2026-05-12 01:38:40 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 01:38:40 | INFO     | __main__ |   imran_khan                       165     123      25      17
+2026-05-12 01:38:40 | INFO     | __main__ |   nawaz_sharif                     122      91      18      13
+2026-05-12 01:38:40 | INFO     | __main__ |   shahbaz_sharif                    99      74      15      10
+2026-05-12 01:38:40 | INFO     | __main__ |   maryam_nawaz                      95      71      14      10
+2026-05-12 01:38:40 | INFO     | __main__ |   bilawal_bhutto                   125      93      19      13
+2026-05-12 01:38:40 | INFO     | __main__ |   asif_ali_zardari                  80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   fazlur_rehman                    120      90      18      12
+2026-05-12 01:38:40 | INFO     | __main__ |   sheikh_rasheed                   100      75      15      10
+2026-05-12 01:38:40 | INFO     | __main__ |   mohsin_naqvi                      80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   hina_rabbani_khar                 85      63      13       9
+2026-05-12 01:38:40 | INFO     | __main__ |   murad_ali_shah                    80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   ali_amin_gandapur                 80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   khawaja_asif                      80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   attaullah_tarar                   80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   chaudhry_pervaiz_elahi            80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ |   ahmed_sharif_chaudhry             80      60      12       8
+2026-05-12 01:38:40 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 01:38:40 | INFO     | __main__ |   TOTAL                           1551    1160     233     158
+2026-05-12 01:38:40 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 01:38:40 | INFO     | __main__ |   Stats saved -> C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\04_split_stats.json
+2026-05-12 01:38:40 | INFO     | __main__ | 
+  Dataset ready at: dataset/processed/
+2026-05-12 10:49:49 | INFO     | __main__ | =================================================================
+2026-05-12 10:49:49 | INFO     | __main__ |   STEP 4 -- TRAIN / VAL / TEST SPLIT
+2026-05-12 10:49:49 | INFO     | __main__ |   Ratios: train=75% | val=15% | test=10% | seed=42
+2026-05-12 10:49:49 | INFO     | __main__ |   Classes: 16
+2026-05-12 10:49:49 | INFO     | __main__ | =================================================================
+2026-05-12 10:49:50 | INFO     | __main__ | [imran_khan] total=137 | train=102 | val=21 | test=14
+2026-05-12 10:49:50 | INFO     | __main__ | [nawaz_sharif] total=115 | train=86 | val=17 | test=12
+2026-05-12 10:49:50 | INFO     | __main__ | [shahbaz_sharif] total=99 | train=74 | val=15 | test=10
+2026-05-12 10:49:50 | INFO     | __main__ | [maryam_nawaz] total=95 | train=71 | val=14 | test=10
+2026-05-12 10:49:50 | INFO     | __main__ | [bilawal_bhutto] total=122 | train=91 | val=18 | test=13
+2026-05-12 10:49:51 | INFO     | __main__ | [asif_ali_zardari] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:51 | INFO     | __main__ | [fazlur_rehman] total=119 | train=89 | val=18 | test=12
+2026-05-12 10:49:51 | INFO     | __main__ | [sheikh_rasheed] total=87 | train=65 | val=13 | test=9
+2026-05-12 10:49:51 | INFO     | __main__ | [mohsin_naqvi] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:51 | INFO     | __main__ | [hina_rabbani_khar] total=85 | train=63 | val=13 | test=9
+2026-05-12 10:49:51 | INFO     | __main__ | [murad_ali_shah] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:52 | INFO     | __main__ | [ali_amin_gandapur] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:52 | INFO     | __main__ | [khawaja_asif] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:53 | INFO     | __main__ | [attaullah_tarar] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:53 | INFO     | __main__ | [chaudhry_pervaiz_elahi] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:53 | INFO     | __main__ | [ahmed_sharif_chaudhry] total=80 | train=60 | val=12 | test=8
+2026-05-12 10:49:53 | INFO     | __main__ | 
+-----------------------------------------------------------------
+2026-05-12 10:49:53 | INFO     | __main__ |   SPLIT SUMMARY
+2026-05-12 10:49:53 | INFO     | __main__ |   Class                          Total   Train     Val    Test
+2026-05-12 10:49:53 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 10:49:53 | INFO     | __main__ |   imran_khan                       137     102      21      14
+2026-05-12 10:49:53 | INFO     | __main__ |   nawaz_sharif                     115      86      17      12
+2026-05-12 10:49:53 | INFO     | __main__ |   shahbaz_sharif                    99      74      15      10
+2026-05-12 10:49:53 | INFO     | __main__ |   maryam_nawaz                      95      71      14      10
+2026-05-12 10:49:53 | INFO     | __main__ |   bilawal_bhutto                   122      91      18      13
+2026-05-12 10:49:53 | INFO     | __main__ |   asif_ali_zardari                  80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   fazlur_rehman                    119      89      18      12
+2026-05-12 10:49:53 | INFO     | __main__ |   sheikh_rasheed                    87      65      13       9
+2026-05-12 10:49:53 | INFO     | __main__ |   mohsin_naqvi                      80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   hina_rabbani_khar                 85      63      13       9
+2026-05-12 10:49:53 | INFO     | __main__ |   murad_ali_shah                    80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   ali_amin_gandapur                 80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   khawaja_asif                      80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   attaullah_tarar                   80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   chaudhry_pervaiz_elahi            80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ |   ahmed_sharif_chaudhry             80      60      12       8
+2026-05-12 10:49:53 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 10:49:53 | INFO     | __main__ |   TOTAL                           1499    1121     225     153
+2026-05-12 10:49:53 | INFO     | __main__ | -----------------------------------------------------------------
+2026-05-12 10:49:53 | INFO     | __main__ |   Stats saved -> C:\Users\zohai\Downloads\icrawler-master\icrawler-master\politician_classifier\stats\04_split_stats.json
+2026-05-12 10:49:53 | INFO     | __main__ | 
+  Dataset ready at: dataset/processed/
