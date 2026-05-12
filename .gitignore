@@ -1,38 +1,34 @@
-# OSX
-.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
 
-# vscode config
+# Data & Models (Excluded from Git)
+data/raw/
+data/cleaned/
+data/processed/
+data/metadata/
+models/*.h5
+models/*.keras
+models/*.pth
+models/*.pkl
+
+# Reports & Logs
+logs/
+reports/*.png
+reports/*.json
+reports/*.txt
+!reports/keep.txt
+
+# VS Code & OS
 .vscode/
-icrawler/.vscode/
+.idea/
+.DS_Store
+Thumbs.db
 
-# docs
-docs/_build
-
-# Image folder
-images
-
-# Python cache folder
-__pycache__
-
-# Compiled python modules.
-*.pyc
-
-# Python egg metadata, regenerated from source files by setuptools.
-*.egg-info
-*.egg
-
-# Setuptools distribution folder.
-dist/
-build/
-
-# Requirements
-requirements.in
-
-# Readme of markdown version
-README.md
-
-# Local test scripts
-icrawler/utils/test_proxy.py
-
-# version
-icrawler/version.py
+# Jupyter
+.ipynb_checkpoints
